@@ -1,0 +1,3441 @@
+[
+  {
+    "city": "Chicago",
+    "totalRevenue": 13918592.06,
+    "dealCount": 1167,
+    "byPipeline": {
+      "national": {
+        "revenue": 10396663.06,
+        "deals": 357
+      },
+      "cafeLines": {
+        "revenue": 3521929.0,
+        "deals": 810
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 1799089.0,
+        "deals": 171
+      },
+      "2023": {
+        "revenue": 2827221.0,
+        "deals": 265
+      },
+      "2024": {
+        "revenue": 2397597.0,
+        "deals": 232
+      },
+      "2025": {
+        "revenue": 3841256.73,
+        "deals": 290
+      },
+      "2026": {
+        "revenue": 3053428.33,
+        "deals": 209
+      }
+    },
+    "distinctShows": 161,
+    "showAcronyms": [
+      "2023",
+      "AACC",
+      "AACR",
+      "AAE 23",
+      "AAFP / FMX",
+      "AAN",
+      "AANA",
+      "AANS",
+      "AAO",
+      "AAOS",
+      "AATS",
+      "ABA",
+      "ABBVIE",
+      "ACA",
+      "ACC",
+      "ACE",
+      "ACE22",
+      "ACP",
+      "ACR",
+      "ADA",
+      "ADLM",
+      "AHA",
+      "AHR",
+      "AIA",
+      "AILA",
+      "ALA",
+      "AMGA",
+      "ANCC",
+      "ANITAB",
+      "ANSYS",
+      "AOA",
+      "AONL",
+      "ASCO",
+      "ASDS",
+      "ASSP",
+      "AUA",
+      "AUTOMATE",
+      "BDT",
+      "BOSTON CONSULTING GROUP  11/8/2022",
+      "BUILD EXPO",
+      "CDS",
+      "CHEST",
+      "CHICAGO AUTO SHOW",
+      "CHICAGO BUILD25",
+      "CHICAGO COLLECTIVE",
+      "CHICAGO EXPO",
+      "CHICAGO VALUES",
+      "CITY OF HOPE - CANCER TREATMENT CENTER",
+      "CLOC",
+      "CRMC",
+      "DDW",
+      "DESTINATION INTERNATIONAL",
+      "DIA",
+      "DINNER",
+      "DS",
+      "EDUCAUSE",
+      "ELKS",
+      "ENDO",
+      "ERNEST & YOUNG",
+      "EXPO CHICAGO",
+      "FABTECH",
+      "FIELD MUSEUM",
+      "FORTUNE FISH",
+      "GBTA",
+      "GFOA",
+      "GOOD 2 GREAT",
+      "GOOD TO GREAT",
+      "GYMNASTICS TOURNAMENT",
+      "HILTON",
+      "HIMSS",
+      "HP23",
+      "HRS",
+      "HYATT",
+      "IATA",
+      "IDF",
+      "IEEE",
+      "IFT",
+      "IIAIC",
+      "IMTS",
+      "IPW",
+      "ISSA",
+      "JUICE STUDIOS",
+      "KEHE",
+      "KEHE22",
+      "KIMPTON GREY",
+      "KUBECON",
+      "LEADINGAGE",
+      "LMC",
+      "LMT",
+      "LOCAL CHICAGO EVENT",
+      "LUPGA",
+      "MCMASTER CARR",
+      "MICROSOFT",
+      "MICROSOFT CIO SUMMIT",
+      "MORNING STAR",
+      "MORNINGSTAR",
+      "MORNINGSTAR INVESTMENT CONFERENCE",
+      "MRO",
+      "MURGADO FORD LINCOLN DEALERSHIP",
+      "NACS",
+      "NACUBO",
+      "NAPNAP",
+      "NASPGHAN",
+      "NASS",
+      "NCTM",
+      "NECA",
+      "NEOCON",
+      "NEURO",
+      "NEXT23",
+      "NFDA",
+      "NORTHROP GRUMMAN",
+      "NRA",
+      "NSBE",
+      "NUTANIX .NEXT",
+      "O'HARE HYATT",
+      "OBAMA",
+      "OEC",
+      "ORTHO",
+      "OWNERS MEETING",
+      "PACK EXPO",
+      "PALMER HOUSE",
+      "PENINSULA",
+      "PES",
+      "PROCORE",
+      "PROMAT",
+      "PWX",
+      "RACE FOR THE CURE",
+      "RAPID 23",
+      "RAS",
+      "RAS23",
+      "RESERVE",
+      "RETAILX",
+      "RICE",
+      "RIMS",
+      "RIVER ROAST",
+      "ROCKWELL",
+      "ROCKWELL ON THE RIVER",
+      "RSNA",
+      "SAGE",
+      "SALES",
+      "SALES24",
+      "SALESFORCE",
+      "SCCM",
+      "SERVICE NOW",
+      "SHOP TALK FALL",
+      "SHRM",
+      "SITECORE",
+      "SMITHBUCKLIN",
+      "SNACKS & SWEETS",
+      "SNMMI",
+      "SURGEONS",
+      "SUSAN G KOMEN RACE FOR THE CURE",
+      "SVS",
+      "TECH SHOW",
+      "THSNA",
+      "TIHS",
+      "TMS",
+      "UNREAL",
+      "WEDDING",
+      "WEFTEC",
+      "WORKDAY"
+    ],
+    "espressoSharePct": 68.2
+  },
+  {
+    "city": "San Diego",
+    "totalRevenue": 6353329.9,
+    "dealCount": 235,
+    "byPipeline": {
+      "national": {
+        "revenue": 6127334.9,
+        "deals": 233
+      },
+      "cafeLines": {
+        "revenue": 225995.0,
+        "deals": 2
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 559395.0,
+        "deals": 20
+      },
+      "2023": {
+        "revenue": 1601498.9,
+        "deals": 61
+      },
+      "2024": {
+        "revenue": 2410968.0,
+        "deals": 93
+      },
+      "2025": {
+        "revenue": 1414541.0,
+        "deals": 49
+      },
+      "2026": {
+        "revenue": 366927.0,
+        "deals": 12
+      }
+    },
+    "distinctShows": 54,
+    "showAcronyms": [
+      "AAAAI",
+      "AACN / NTI",
+      "AACR",
+      "AAD",
+      "AAHFN",
+      "AAIC",
+      "AAN",
+      "AANP",
+      "AAOMS",
+      "AAOPT",
+      "AAOS",
+      "AASLD",
+      "ACOG",
+      "ACP",
+      "ACR",
+      "ACTRIMS",
+      "ADA",
+      "AFP",
+      "AHS",
+      "ASCP",
+      "ASCRS",
+      "ASH",
+      "ASMBS",
+      "ASN",
+      "ASPS/PSTM",
+      "ASTRO",
+      "ATC",
+      "ATS",
+      "BIO",
+      "DDW",
+      "HFA",
+      "HRS",
+      "NASPGHAN",
+      "NCS",
+      "NECA",
+      "NEURIPS",
+      "NEXT",
+      "NPWH",
+      "NSC",
+      "OBESITY WEEK",
+      "OMA",
+      "OW",
+      "PES",
+      "PSYCH NP",
+      "RIMS",
+      "SGO",
+      "SHM",
+      "SHRM",
+      "SITC",
+      "STS",
+      "THE AESTHETIC MEETING",
+      "US PSYCH",
+      "WCLC",
+      "WORLD"
+    ],
+    "espressoSharePct": 56.3
+  },
+  {
+    "city": "New Orleans",
+    "totalRevenue": 5760935.78,
+    "dealCount": 434,
+    "byPipeline": {
+      "national": {
+        "revenue": 4654895.78,
+        "deals": 181
+      },
+      "cafeLines": {
+        "revenue": 1106040.0,
+        "deals": 253
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 1467739.94,
+        "deals": 93
+      },
+      "2023": {
+        "revenue": 1354836.71,
+        "deals": 96
+      },
+      "2024": {
+        "revenue": 477469.0,
+        "deals": 62
+      },
+      "2025": {
+        "revenue": 966371.13,
+        "deals": 96
+      },
+      "2026": {
+        "revenue": 1494519.0,
+        "deals": 87
+      }
+    },
+    "distinctShows": 92,
+    "showAcronyms": [
+      "AACE",
+      "AACN NTI",
+      "AACR",
+      "AACRAO",
+      "AAD",
+      "AAGL",
+      "AANP",
+      "AAO",
+      "AAOPT",
+      "AAOS",
+      "AAOTH",
+      "AAPA",
+      "AASA",
+      "ACC",
+      "ACP",
+      "ADA",
+      "ADCES",
+      "AHA",
+      "AHA ISC",
+      "AICHE",
+      "ALLIANCE ANNUAL",
+      "AMERICAN RENTAL ASSOCIATION",
+      "ANCC",
+      "AORN",
+      "APA",
+      "ARVO",
+      "ASA",
+      "ASGCT",
+      "ASH",
+      "ASHP",
+      "ASLA",
+      "ASLRRA",
+      "ASPS",
+      "ASRM",
+      "ASTMH",
+      "ATA",
+      "ATD",
+      "AUA",
+      "AUTODESK",
+      "CLEAN POWER",
+      "COMMODITY CLASSIC",
+      "CONFLUENT CURRENT",
+      "CONNECTIVITY EXPO",
+      "ELLUCIAN",
+      "GSX",
+      "HOPA",
+      "HRS",
+      "IDDBA",
+      "IEEE / CVF",
+      "INTERNATIONAL WORK BOAT SHOW",
+      "IPF",
+      "IPMI",
+      "ISC",
+      "ITJR",
+      "IWBS",
+      "MLA",
+      "NAA",
+      "NABA",
+      "NACHA",
+      "NADA",
+      "NAFSA",
+      "NBAA",
+      "NCBA",
+      "NCPA",
+      "NFDA",
+      "NGWA",
+      "NKF",
+      "NMA",
+      "NSC",
+      "NSH",
+      "PCA",
+      "POWERGEN",
+      "PROCORE GROUNDBREAK",
+      "SAP",
+      "SECO",
+      "SENIOR LIVING EXEC CONFERENCE",
+      "SHRM",
+      "SMILECON24",
+      "SMR",
+      "SNMMI",
+      "SPE",
+      "STS",
+      "SVS",
+      "US PSYCH",
+      "USCAP",
+      "USCHA",
+      "VRMA",
+      "WASTE EXPO",
+      "WBENC",
+      "WEFTEC",
+      "WORKBOAT",
+      "XEROCON"
+    ],
+    "espressoSharePct": 60.2
+  },
+  {
+    "city": "Washington",
+    "totalRevenue": 3751060.14,
+    "dealCount": 137,
+    "byPipeline": {
+      "national": {
+        "revenue": 3751060.14,
+        "deals": 137
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 856921.14,
+        "deals": 29
+      },
+      "2023": {
+        "revenue": 514365.0,
+        "deals": 24
+      },
+      "2024": {
+        "revenue": 1648585.0,
+        "deals": 57
+      },
+      "2025": {
+        "revenue": 381787.0,
+        "deals": 14
+      },
+      "2026": {
+        "revenue": 349402.0,
+        "deals": 13
+      }
+    },
+    "distinctShows": 28,
+    "showAcronyms": [
+      "(Unspecified)",
+      "AAAAI",
+      "AAFP",
+      "AAFP / FMX",
+      "AAOMS",
+      "AAP",
+      "AASLD",
+      "ACC",
+      "ACOG",
+      "ACR",
+      "AOA",
+      "ASCRS",
+      "ASTRO",
+      "ATS",
+      "AUA",
+      "CNS",
+      "DDW",
+      "GAC",
+      "IDWEEK",
+      "IGNS",
+      "IPVC",
+      "ISTH",
+      "MAKING STRIDES AGAINST BREAST CANCER",
+      "NHIA",
+      "ONS",
+      "SCTE",
+      "TCT",
+      "USCHA"
+    ],
+    "espressoSharePct": 54.5
+  },
+  {
+    "city": "Orlando",
+    "totalRevenue": 3571029.0,
+    "dealCount": 128,
+    "byPipeline": {
+      "national": {
+        "revenue": 3571029.0,
+        "deals": 128
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 500161.0,
+        "deals": 22
+      },
+      "2023": {
+        "revenue": 593285.0,
+        "deals": 25
+      },
+      "2024": {
+        "revenue": 512424.0,
+        "deals": 23
+      },
+      "2025": {
+        "revenue": 1396638.0,
+        "deals": 38
+      },
+      "2026": {
+        "revenue": 568521.0,
+        "deals": 20
+      }
+    },
+    "distinctShows": 41,
+    "showAcronyms": [
+      "AACE",
+      "AACR",
+      "AAD",
+      "AAHFN",
+      "AANP",
+      "AAO",
+      "AAOMS",
+      "AAP",
+      "ACAAI",
+      "ACR",
+      "ADA",
+      "AES",
+      "AIBD",
+      "ALPFA",
+      "AMGA",
+      "ANNA",
+      "APHA",
+      "ASDS",
+      "ASH",
+      "ASN",
+      "ASNC",
+      "ATS",
+      "DISABILITY: IN",
+      "GPE",
+      "HFA",
+      "HIMSS",
+      "HITEC",
+      "HOPE",
+      "IBS",
+      "JADPRO",
+      "MDA",
+      "NAPNAP",
+      "NAVC/VMX",
+      "NCCN",
+      "NCPA",
+      "NFPA",
+      "RBC",
+      "SHRM",
+      "TCT/TANDEM",
+      "VEE",
+      "VMX"
+    ],
+    "espressoSharePct": 50.3
+  },
+  {
+    "city": "Boston",
+    "totalRevenue": 3354129.3,
+    "dealCount": 149,
+    "byPipeline": {
+      "national": {
+        "revenue": 3254489.3,
+        "deals": 133
+      },
+      "cafeLines": {
+        "revenue": 99640.0,
+        "deals": 16
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 692067.67,
+        "deals": 29
+      },
+      "2023": {
+        "revenue": 1042148.0,
+        "deals": 44
+      },
+      "2024": {
+        "revenue": 1015461.0,
+        "deals": 46
+      },
+      "2025": {
+        "revenue": 339678.63,
+        "deals": 21
+      },
+      "2026": {
+        "revenue": 264774.0,
+        "deals": 9
+      }
+    },
+    "distinctShows": 37,
+    "showAcronyms": [
+      "AAD",
+      "AAN",
+      "AASLD",
+      "AATS",
+      "ACAAI",
+      "ACP",
+      "AFP",
+      "AMERICAN PHYSICAL THERAPY ASSOCIATION COMBINED SECTIONS MEETING",
+      "AMP",
+      "AONL",
+      "ASAPS",
+      "ASCRS",
+      "ASPS/PSTM",
+      "ATC",
+      "BIO",
+      "CHEST",
+      "DIA",
+      "ENDO",
+      "GSA",
+      "HRS",
+      "IDSA",
+      "IDWEEK",
+      "ISHLT",
+      "LEADINGAGE",
+      "MATERIALS RESEARCH SOCIETY FALL MEETING",
+      "NAACP",
+      "NACDS",
+      "NACFC",
+      "NKF",
+      "PME",
+      "SITC",
+      "TCT",
+      "US PSYCH",
+      "USCAP",
+      "VEEVA",
+      "VEEVA SUMMIT",
+      "WCVD"
+    ],
+    "espressoSharePct": 56.7
+  },
+  {
+    "city": "San Antonio",
+    "totalRevenue": 2108114.86,
+    "dealCount": 80,
+    "byPipeline": {
+      "national": {
+        "revenue": 2108114.86,
+        "deals": 80
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 238585.86,
+        "deals": 11
+      },
+      "2023": {
+        "revenue": 701341.0,
+        "deals": 27
+      },
+      "2024": {
+        "revenue": 615015.0,
+        "deals": 22
+      },
+      "2025": {
+        "revenue": 339675.0,
+        "deals": 10
+      },
+      "2026": {
+        "revenue": 213498.0,
+        "deals": 10
+      }
+    },
+    "distinctShows": 20,
+    "showAcronyms": [
+      "AAAAI",
+      "ALPFA",
+      "APHA",
+      "ASA",
+      "ASRM",
+      "ASTRO",
+      "AUA",
+      "COMMUNITY SUMMIT NA",
+      "EXHIBITOR LIVE",
+      "HITEC",
+      "HTU",
+      "IPW",
+      "OBESITY WEEK",
+      "ONS",
+      "PENS",
+      "SABCS",
+      "STS",
+      "TCT/TANDEM",
+      "THE RUNNING EVENT",
+      "USCAP"
+    ],
+    "espressoSharePct": 55.1
+  },
+  {
+    "city": "San Francisco",
+    "totalRevenue": 2059727.36,
+    "dealCount": 73,
+    "byPipeline": {
+      "national": {
+        "revenue": 2059727.36,
+        "deals": 73
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 225464.0,
+        "deals": 10
+      },
+      "2023": {
+        "revenue": 465675.0,
+        "deals": 17
+      },
+      "2024": {
+        "revenue": 96724.0,
+        "deals": 4
+      },
+      "2025": {
+        "revenue": 982798.36,
+        "deals": 32
+      },
+      "2026": {
+        "revenue": 289066.0,
+        "deals": 10
+      }
+    },
+    "distinctShows": 19,
+    "showAcronyms": [
+      "AANEM",
+      "AAO",
+      "ACEP",
+      "ACF",
+      "ACOG",
+      "ACP",
+      "APA",
+      "ASA",
+      "ASTRO",
+      "ATS",
+      "CCC",
+      "ENDO",
+      "HRS",
+      "PES",
+      "RSA",
+      "SCCM",
+      "TCT",
+      "VMWARE EXPLORE",
+      "WTC"
+    ],
+    "espressoSharePct": 39.5
+  },
+  {
+    "city": "Philadelphia",
+    "totalRevenue": 1879051.0,
+    "dealCount": 74,
+    "byPipeline": {
+      "national": {
+        "revenue": 1879051.0,
+        "deals": 74
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 363368.0,
+        "deals": 15
+      },
+      "2023": {
+        "revenue": 568341.0,
+        "deals": 27
+      },
+      "2024": {
+        "revenue": 638267.0,
+        "deals": 22
+      },
+      "2025": {
+        "revenue": 72373.0,
+        "deals": 4
+      },
+      "2026": {
+        "revenue": 236702.0,
+        "deals": 6
+      }
+    },
+    "distinctShows": 18,
+    "showAcronyms": [
+      "AAAAI",
+      "AACN NTI",
+      "AAIC",
+      "AAO",
+      "ACEP",
+      "ACG",
+      "ACR",
+      "AFP",
+      "AHA",
+      "ASA",
+      "ASN",
+      "ATC",
+      "MDS",
+      "NACFC",
+      "NATCON",
+      "RIMS",
+      "SMR",
+      "WORLD AMR"
+    ],
+    "espressoSharePct": 59.7
+  },
+  {
+    "city": "Anaheim",
+    "totalRevenue": 1647439.69,
+    "dealCount": 73,
+    "byPipeline": {
+      "national": {
+        "revenue": 1647439.69,
+        "deals": 73
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 451225.0,
+        "deals": 20
+      },
+      "2023": {
+        "revenue": 566073.0,
+        "deals": 23
+      },
+      "2024": {
+        "revenue": 130654.0,
+        "deals": 7
+      },
+      "2025": {
+        "revenue": 365118.69,
+        "deals": 17
+      },
+      "2026": {
+        "revenue": 134369.0,
+        "deals": 6
+      }
+    },
+    "distinctShows": 14,
+    "showAcronyms": [
+      "AACC",
+      "AAFP / FMX",
+      "AAP",
+      "AAST",
+      "ACAAI",
+      "ASHP",
+      "ASRM",
+      "FDS",
+      "GPFS",
+      "IEEE",
+      "NACCHO",
+      "ONS",
+      "PMW",
+      "SME"
+    ],
+    "espressoSharePct": 51.6
+  },
+  {
+    "city": "Las Vegas",
+    "totalRevenue": 1624677.16,
+    "dealCount": 73,
+    "byPipeline": {
+      "national": {
+        "revenue": 1624677.16,
+        "deals": 73
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 381842.7,
+        "deals": 19
+      },
+      "2023": {
+        "revenue": 216502.0,
+        "deals": 9
+      },
+      "2024": {
+        "revenue": 484319.15,
+        "deals": 21
+      },
+      "2025": {
+        "revenue": 336522.31,
+        "deals": 16
+      },
+      "2026": {
+        "revenue": 205491.0,
+        "deals": 8
+      }
+    },
+    "distinctShows": 33,
+    "showAcronyms": [
+      "AAST",
+      "ACEP",
+      "ASHP",
+      "ASMBS",
+      "ASNR",
+      "ATS",
+      "AUA",
+      "CAP",
+      "CCC",
+      "CCW",
+      "CENCORA THOUGHTSPOT",
+      "CES",
+      "EXHIBITOR LIVE",
+      "HIMSS",
+      "HLTH",
+      "HR TECH",
+      "IBIE",
+      "IBS",
+      "ISSA",
+      "MCKESSON ACCELERATE",
+      "NABA",
+      "NACS",
+      "NPPA",
+      "NPWH",
+      "ORTHO SUMMIT",
+      "OSET",
+      "PAIN",
+      "SHM",
+      "SHOP TALK",
+      "SHRM",
+      "SMFM",
+      "SUPERZOO",
+      "WVC"
+    ],
+    "espressoSharePct": 53.1
+  },
+  {
+    "city": "Denver",
+    "totalRevenue": 1472431.23,
+    "dealCount": 57,
+    "byPipeline": {
+      "national": {
+        "revenue": 1472431.23,
+        "deals": 57
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 26002.0,
+        "deals": 1
+      },
+      "2023": {
+        "revenue": 57137.0,
+        "deals": 2
+      },
+      "2024": {
+        "revenue": 377727.0,
+        "deals": 15
+      },
+      "2025": {
+        "revenue": 381639.23,
+        "deals": 23
+      },
+      "2026": {
+        "revenue": 629926.0,
+        "deals": 16
+      }
+    },
+    "distinctShows": 15,
+    "showAcronyms": [
+      "AACN NTI",
+      "AAD",
+      "AAN",
+      "AAP",
+      "AAPA",
+      "AASLD",
+      "ARVO",
+      "ASRM",
+      "GBS / CIDP",
+      "IGNS",
+      "MCKESSON IDEASHARE",
+      "NAPNAP",
+      "NATCON",
+      "NSC",
+      "ONS"
+    ],
+    "espressoSharePct": 54.1
+  },
+  {
+    "city": "Nashville",
+    "totalRevenue": 1289236.86,
+    "dealCount": 54,
+    "byPipeline": {
+      "national": {
+        "revenue": 1280236.86,
+        "deals": 52
+      },
+      "cafeLines": {
+        "revenue": 9000.0,
+        "deals": 2
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 286001.86,
+        "deals": 11
+      },
+      "2023": {
+        "revenue": 243441.0,
+        "deals": 11
+      },
+      "2024": {
+        "revenue": 380158.0,
+        "deals": 16
+      },
+      "2025": {
+        "revenue": 124066.0,
+        "deals": 6
+      },
+      "2026": {
+        "revenue": 255570.0,
+        "deals": 10
+      }
+    },
+    "distinctShows": 26,
+    "showAcronyms": [
+      "2026",
+      "AABB",
+      "AANEM",
+      "AANP",
+      "AAPA",
+      "ACG",
+      "AES",
+      "AFP",
+      "AMCP",
+      "AOA",
+      "APHA",
+      "CATTLE",
+      "CHEST",
+      "CMSC",
+      "EDUCAUSE",
+      "LEADINGAGE",
+      "MCKESSON IDEASHARE",
+      "NCQA",
+      "NHIA",
+      "NPACE",
+      "RCE",
+      "SHM",
+      "SIR",
+      "SNIS",
+      "US PSYCH",
+      "VIVE"
+    ],
+    "espressoSharePct": 61.3
+  },
+  {
+    "city": "Phoenix",
+    "totalRevenue": 1119507.5,
+    "dealCount": 45,
+    "byPipeline": {
+      "national": {
+        "revenue": 1119507.5,
+        "deals": 45
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 235901.0,
+        "deals": 10
+      },
+      "2023": {
+        "revenue": 164375.0,
+        "deals": 9
+      },
+      "2024": {
+        "revenue": 188378.5,
+        "deals": 10
+      },
+      "2025": {
+        "revenue": 530853.0,
+        "deals": 16
+      }
+    },
+    "distinctShows": 13,
+    "showAcronyms": [
+      "AAAAI",
+      "AAFP / FMX",
+      "AANEM",
+      "AARC",
+      "ACG",
+      "AMP",
+      "APHA",
+      "CMSC",
+      "ISC",
+      "NACFC",
+      "NCS",
+      "SCCM",
+      "SGO"
+    ],
+    "espressoSharePct": 51.0
+  },
+  {
+    "city": "Atlanta",
+    "totalRevenue": 934578.94,
+    "dealCount": 45,
+    "byPipeline": {
+      "national": {
+        "revenue": 934578.94,
+        "deals": 45
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 103551.0,
+        "deals": 5
+      },
+      "2023": {
+        "revenue": 14888.0,
+        "deals": 1
+      },
+      "2024": {
+        "revenue": 430484.94,
+        "deals": 22
+      },
+      "2025": {
+        "revenue": 385655.0,
+        "deals": 17
+      }
+    },
+    "distinctShows": 11,
+    "showAcronyms": [
+      "2024",
+      "ACC",
+      "AES",
+      "ENDO",
+      "HFSA",
+      "IDWEEK",
+      "NAHN",
+      "NHF",
+      "OBESITY WEEK",
+      "PHA",
+      "SECO"
+    ],
+    "espressoSharePct": 48.1
+  },
+  {
+    "city": "Houston",
+    "totalRevenue": 871758.0,
+    "dealCount": 39,
+    "byPipeline": {
+      "national": {
+        "revenue": 871758.0,
+        "deals": 39
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 65880.0,
+        "deals": 3
+      },
+      "2023": {
+        "revenue": 117282.0,
+        "deals": 5
+      },
+      "2024": {
+        "revenue": 273109.0,
+        "deals": 12
+      },
+      "2025": {
+        "revenue": 333142.0,
+        "deals": 15
+      },
+      "2026": {
+        "revenue": 82345.0,
+        "deals": 4
+      }
+    },
+    "distinctShows": 12,
+    "showAcronyms": [
+      "AABB",
+      "AACN NTI",
+      "AAPA",
+      "ADCES",
+      "AMCP",
+      "ASN",
+      "CNS",
+      "MDS-PAS",
+      "NHF",
+      "PMSW",
+      "SLEEP",
+      "SOHO"
+    ],
+    "espressoSharePct": 39.8
+  },
+  {
+    "city": "Los Angeles",
+    "totalRevenue": 759502.89,
+    "dealCount": 48,
+    "byPipeline": {
+      "national": {
+        "revenue": 655382.89,
+        "deals": 22
+      },
+      "cafeLines": {
+        "revenue": 104120.0,
+        "deals": 26
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 69334.0,
+        "deals": 12
+      },
+      "2023": {
+        "revenue": 91183.89,
+        "deals": 15
+      },
+      "2024": {
+        "revenue": 316669.0,
+        "deals": 12
+      },
+      "2025": {
+        "revenue": 150238.0,
+        "deals": 5
+      },
+      "2026": {
+        "revenue": 132078.0,
+        "deals": 4
+      }
+    },
+    "distinctShows": 27,
+    "showAcronyms": [
+      "AAHOA",
+      "AANS",
+      "AAO",
+      "AATS",
+      "ACFAS",
+      "ADOBE",
+      "AES",
+      "APA",
+      "APHA",
+      "ASCRS",
+      "CINE GEAR EXPO",
+      "CNS",
+      "IDWEEK",
+      "IMS",
+      "ITS",
+      "LA",
+      "LA AUTO SHOW",
+      "LOS ANGELES AUTO SHOW",
+      "NASS",
+      "NATCON",
+      "SIGGRAPH",
+      "SNMMI",
+      "STS",
+      "SUMMIT OF AMERICAS",
+      "SUPER BOWL VIP EVENT",
+      "SWE",
+      "VIVE"
+    ],
+    "espressoSharePct": 40.2
+  },
+  {
+    "city": "Seattle",
+    "totalRevenue": 619145.0,
+    "dealCount": 25,
+    "byPipeline": {
+      "national": {
+        "revenue": 619145.0,
+        "deals": 25
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 371017.0,
+        "deals": 13
+      },
+      "2023": {
+        "revenue": 15504.0,
+        "deals": 2
+      },
+      "2024": {
+        "revenue": 18223.0,
+        "deals": 1
+      },
+      "2025": {
+        "revenue": 189831.0,
+        "deals": 8
+      },
+      "2026": {
+        "revenue": 24570.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 10,
+    "showAcronyms": [
+      "AACE",
+      "AAN",
+      "AATS",
+      "ASPEN",
+      "ASPHO",
+      "NACFC",
+      "PHPN",
+      "SGO",
+      "SLEEP",
+      "SNIS"
+    ],
+    "espressoSharePct": 42.0
+  },
+  {
+    "city": "Charlotte",
+    "totalRevenue": 409705.0,
+    "dealCount": 17,
+    "byPipeline": {
+      "national": {
+        "revenue": 409705.0,
+        "deals": 17
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 311013.0,
+        "deals": 12
+      },
+      "2024": {
+        "revenue": 18516.0,
+        "deals": 1
+      },
+      "2025": {
+        "revenue": 13705.0,
+        "deals": 1
+      },
+      "2026": {
+        "revenue": 66471.0,
+        "deals": 3
+      }
+    },
+    "distinctShows": 5,
+    "showAcronyms": [
+      "ACG",
+      "AO",
+      "CMSC",
+      "CNS",
+      "SLEEP"
+    ],
+    "espressoSharePct": 39.6
+  },
+  {
+    "city": "Fort Lauderdale",
+    "totalRevenue": 389541.0,
+    "dealCount": 20,
+    "byPipeline": {
+      "national": {
+        "revenue": 389541.0,
+        "deals": 20
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 85252.0,
+        "deals": 4
+      },
+      "2024": {
+        "revenue": 95335.0,
+        "deals": 5
+      },
+      "2025": {
+        "revenue": 118191.0,
+        "deals": 6
+      },
+      "2026": {
+        "revenue": 90763.0,
+        "deals": 5
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "PMS"
+    ],
+    "espressoSharePct": 53.7
+  },
+  {
+    "city": "Austin",
+    "totalRevenue": 365836.0,
+    "dealCount": 18,
+    "byPipeline": {
+      "national": {
+        "revenue": 365836.0,
+        "deals": 18
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 13623.0,
+        "deals": 1
+      },
+      "2023": {
+        "revenue": 223315.0,
+        "deals": 12
+      },
+      "2024": {
+        "revenue": 81408.0,
+        "deals": 4
+      },
+      "2025": {
+        "revenue": 47490.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 10,
+    "showAcronyms": [
+      "AHS",
+      "ASAPS",
+      "ASNC",
+      "ASPS/PSTM",
+      "CIE",
+      "NEI",
+      "NHIA",
+      "NKF",
+      "SHM",
+      "THE RUNNING EVENT"
+    ],
+    "espressoSharePct": 73.7
+  },
+  {
+    "city": "National Harbor",
+    "totalRevenue": 364014.21,
+    "dealCount": 18,
+    "byPipeline": {
+      "national": {
+        "revenue": 364014.21,
+        "deals": 18
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 149671.21,
+        "deals": 6
+      },
+      "2023": {
+        "revenue": 56477.0,
+        "deals": 3
+      },
+      "2025": {
+        "revenue": 157866.0,
+        "deals": 9
+      }
+    },
+    "distinctShows": 9,
+    "showAcronyms": [
+      "CMSC",
+      "HFSA",
+      "IGNS",
+      "JADPRO",
+      "NHF",
+      "NHIA",
+      "PES",
+      "SITC",
+      "VAM"
+    ],
+    "espressoSharePct": 26.3
+  },
+  {
+    "city": "Lake Buena Vista",
+    "totalRevenue": 362940.0,
+    "dealCount": 11,
+    "byPipeline": {
+      "national": {
+        "revenue": 362940.0,
+        "deals": 11
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 179250.0,
+        "deals": 5
+      },
+      "2025": {
+        "revenue": 161080.0,
+        "deals": 5
+      },
+      "2026": {
+        "revenue": 22610.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "AIBD",
+      "CHILDREN WITH DIABETES - FRIENDS FOR LIFE",
+      "FRIENDS FOR LIFE"
+    ],
+    "espressoSharePct": 60.3
+  },
+  {
+    "city": "New York",
+    "totalRevenue": 336700.0,
+    "dealCount": 15,
+    "byPipeline": {
+      "national": {
+        "revenue": 336700.0,
+        "deals": 15
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 62775.0,
+        "deals": 2
+      },
+      "2023": {
+        "revenue": 41808.0,
+        "deals": 2
+      },
+      "2024": {
+        "revenue": 182593.0,
+        "deals": 8
+      },
+      "2025": {
+        "revenue": 23397.0,
+        "deals": 2
+      },
+      "2026": {
+        "revenue": 26127.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 5,
+    "showAcronyms": [
+      "AACAP",
+      "APA",
+      "LL&M",
+      "NRF",
+      "VEE"
+    ],
+    "espressoSharePct": 61.3
+  },
+  {
+    "city": "Colorado Springs",
+    "totalRevenue": 326005.0,
+    "dealCount": 14,
+    "byPipeline": {
+      "national": {
+        "revenue": 326005.0,
+        "deals": 14
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 91835.0,
+        "deals": 4
+      },
+      "2023": {
+        "revenue": 80729.0,
+        "deals": 4
+      },
+      "2024": {
+        "revenue": 82303.0,
+        "deals": 3
+      },
+      "2025": {
+        "revenue": 49244.0,
+        "deals": 2
+      },
+      "2026": {
+        "revenue": 21894.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "NEI"
+    ],
+    "espressoSharePct": 39.3
+  },
+  {
+    "city": "Providence",
+    "totalRevenue": 325862.5,
+    "dealCount": 18,
+    "byPipeline": {
+      "national": {
+        "revenue": 325862.5,
+        "deals": 18
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 116296.0,
+        "deals": 6
+      },
+      "2024": {
+        "revenue": 104868.5,
+        "deals": 6
+      },
+      "2025": {
+        "revenue": 84699.0,
+        "deals": 5
+      },
+      "2026": {
+        "revenue": 19999.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 2,
+    "showAcronyms": [
+      "APHON",
+      "PME"
+    ],
+    "espressoSharePct": 44.1
+  },
+  {
+    "city": "Indianapolis",
+    "totalRevenue": 308555.84,
+    "dealCount": 15,
+    "byPipeline": {
+      "national": {
+        "revenue": 308555.84,
+        "deals": 15
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 33692.0,
+        "deals": 2
+      },
+      "2023": {
+        "revenue": 114788.84,
+        "deals": 5
+      },
+      "2024": {
+        "revenue": 102230.0,
+        "deals": 6
+      },
+      "2025": {
+        "revenue": 57845.0,
+        "deals": 2
+      }
+    },
+    "distinctShows": 7,
+    "showAcronyms": [
+      "AAO",
+      "AAOPT",
+      "AAPA",
+      "ACS",
+      "HFA",
+      "PHA",
+      "SLEEP"
+    ],
+    "espressoSharePct": 36.5
+  },
+  {
+    "city": "Aurora",
+    "totalRevenue": 289596.0,
+    "dealCount": 20,
+    "byPipeline": {
+      "national": {
+        "revenue": 289596.0,
+        "deals": 20
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 117668.0,
+        "deals": 8
+      },
+      "2023": {
+        "revenue": 129280.0,
+        "deals": 6
+      },
+      "2024": {
+        "revenue": 1100.0,
+        "deals": 1
+      },
+      "2025": {
+        "revenue": 23550.0,
+        "deals": 3
+      },
+      "2026": {
+        "revenue": 17998.0,
+        "deals": 2
+      }
+    },
+    "distinctShows": 9,
+    "showAcronyms": [
+      "AHS",
+      "ASCP",
+      "ASDS",
+      "CCC",
+      "CMSC",
+      "CONNECTIONS USER CONFERENCE",
+      "JADPRO",
+      "NASP",
+      "SMFM"
+    ],
+    "espressoSharePct": 66.0
+  },
+  {
+    "city": "Salt Lake City",
+    "totalRevenue": 283839.0,
+    "dealCount": 13,
+    "byPipeline": {
+      "national": {
+        "revenue": 283839.0,
+        "deals": 13
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 75289.0,
+        "deals": 4
+      },
+      "2023": {
+        "revenue": 2600.0,
+        "deals": 1
+      },
+      "2024": {
+        "revenue": 33445.0,
+        "deals": 2
+      },
+      "2025": {
+        "revenue": 37233.0,
+        "deals": 2
+      },
+      "2026": {
+        "revenue": 135272.0,
+        "deals": 4
+      }
+    },
+    "distinctShows": 6,
+    "showAcronyms": [
+      "ACEP",
+      "AMP",
+      "APHON",
+      "ARVO",
+      "SIR",
+      "TCT/TANDEM"
+    ],
+    "espressoSharePct": 53.1
+  },
+  {
+    "city": "Unknown",
+    "totalRevenue": 245391.0,
+    "dealCount": 50,
+    "byPipeline": {
+      "national": {
+        "revenue": 94834.0,
+        "deals": 18
+      },
+      "cafeLines": {
+        "revenue": 150557.0,
+        "deals": 32
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 45665.0,
+        "deals": 6
+      },
+      "2023": {
+        "revenue": 1981.0,
+        "deals": 1
+      },
+      "2024": {
+        "revenue": 81273.0,
+        "deals": 16
+      },
+      "2025": {
+        "revenue": 110547.0,
+        "deals": 26
+      },
+      "2026": {
+        "revenue": 5925.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 22,
+    "showAcronyms": [
+      "(Unspecified)",
+      "ABBVIE",
+      "ADLM",
+      "AIA",
+      "ASPS",
+      "BIOTECH",
+      "CBRE",
+      "CONFLUENT CURRENT",
+      "DS",
+      "IMTS",
+      "ITS",
+      "LABCORP",
+      "LAMBS FARM",
+      "MARITZ",
+      "NCPA",
+      "NEOCON",
+      "PWX",
+      "RSNA",
+      "TDK",
+      "TRUSTMARK",
+      "VET TOGETHER / SMILE TOGETHER",
+      "WEFTEC"
+    ],
+    "espressoSharePct": 77.7
+  },
+  {
+    "city": "Baltimore",
+    "totalRevenue": 241207.0,
+    "dealCount": 11,
+    "byPipeline": {
+      "national": {
+        "revenue": 241207.0,
+        "deals": 11
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 36777.0,
+        "deals": 3
+      },
+      "2023": {
+        "revenue": 51243.0,
+        "deals": 3
+      },
+      "2026": {
+        "revenue": 153187.0,
+        "deals": 5
+      }
+    },
+    "distinctShows": 5,
+    "showAcronyms": [
+      "AAEM",
+      "ACMG",
+      "ACOG",
+      "ADCES",
+      "SLEEP"
+    ],
+    "espressoSharePct": 65.0
+  },
+  {
+    "city": "Honolulu",
+    "totalRevenue": 240775.0,
+    "dealCount": 9,
+    "byPipeline": {
+      "national": {
+        "revenue": 240775.0,
+        "deals": 9
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 184342.0,
+        "deals": 7
+      },
+      "2025": {
+        "revenue": 56433.0,
+        "deals": 2
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "CHEST",
+      "MDS",
+      "TCT/TANDEM"
+    ],
+    "espressoSharePct": 64.8
+  },
+  {
+    "city": "Scottsdale",
+    "totalRevenue": 236016.0,
+    "dealCount": 12,
+    "byPipeline": {
+      "national": {
+        "revenue": 236016.0,
+        "deals": 12
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 51987.0,
+        "deals": 3
+      },
+      "2023": {
+        "revenue": 45657.0,
+        "deals": 2
+      },
+      "2024": {
+        "revenue": 45831.0,
+        "deals": 2
+      },
+      "2025": {
+        "revenue": 92541.0,
+        "deals": 5
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "AHS",
+      "ATA",
+      "NEA"
+    ],
+    "espressoSharePct": 43.3
+  },
+  {
+    "city": "Rosemont",
+    "totalRevenue": 184882.0,
+    "dealCount": 11,
+    "byPipeline": {
+      "national": {
+        "revenue": 184882.0,
+        "deals": 11
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 31248.0,
+        "deals": 2
+      },
+      "2023": {
+        "revenue": 59186.0,
+        "deals": 3
+      },
+      "2024": {
+        "revenue": 21693.0,
+        "deals": 2
+      },
+      "2025": {
+        "revenue": 72755.0,
+        "deals": 4
+      }
+    },
+    "distinctShows": 2,
+    "showAcronyms": [
+      "PMMW",
+      "SCDAA"
+    ],
+    "espressoSharePct": 48.9
+  },
+  {
+    "city": "Louisville",
+    "totalRevenue": 175180.0,
+    "dealCount": 9,
+    "byPipeline": {
+      "national": {
+        "revenue": 175180.0,
+        "deals": 9
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 143412.0,
+        "deals": 6
+      },
+      "2023": {
+        "revenue": 15480.0,
+        "deals": 1
+      },
+      "2024": {
+        "revenue": 12663.0,
+        "deals": 1
+      },
+      "2025": {
+        "revenue": 3625.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 5,
+    "showAcronyms": [
+      "ACAAI",
+      "APNA",
+      "ASPHO",
+      "EXHIBITOR LIVE",
+      "IAEE"
+    ],
+    "espressoSharePct": 73.3
+  },
+  {
+    "city": "Savannah",
+    "totalRevenue": 166655.0,
+    "dealCount": 7,
+    "byPipeline": {
+      "national": {
+        "revenue": 166655.0,
+        "deals": 7
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 166655.0,
+        "deals": 7
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "AANEM"
+    ],
+    "espressoSharePct": 48.6
+  },
+  {
+    "city": "Minneapolis",
+    "totalRevenue": 166616.73,
+    "dealCount": 10,
+    "byPipeline": {
+      "national": {
+        "revenue": 166616.73,
+        "deals": 10
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 21417.96,
+        "deals": 2
+      },
+      "2025": {
+        "revenue": 143748.77,
+        "deals": 7
+      },
+      "2026": {
+        "revenue": 1450.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 6,
+    "showAcronyms": [
+      "ACOG",
+      "AHS",
+      "ASFA",
+      "ASPHO",
+      "HFSA",
+      "MIDWEST REGIONAL ESOP CONFERENCE"
+    ],
+    "espressoSharePct": 19.2
+  },
+  {
+    "city": "Grapevine",
+    "totalRevenue": 148573.0,
+    "dealCount": 10,
+    "byPipeline": {
+      "national": {
+        "revenue": 148573.0,
+        "deals": 10
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 124260.0,
+        "deals": 9
+      },
+      "2026": {
+        "revenue": 24313.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "HEALTHCON",
+      "JADPRO",
+      "NETSMART USER CONFERENCE - CONNECTIONS"
+    ],
+    "espressoSharePct": 54.3
+  },
+  {
+    "city": "Long Beach",
+    "totalRevenue": 148230.0,
+    "dealCount": 8,
+    "byPipeline": {
+      "national": {
+        "revenue": 148230.0,
+        "deals": 8
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 27398.0,
+        "deals": 2
+      },
+      "2024": {
+        "revenue": 120832.0,
+        "deals": 6
+      }
+    },
+    "distinctShows": 2,
+    "showAcronyms": [
+      "APNA",
+      "NKF"
+    ],
+    "espressoSharePct": 81.5
+  },
+  {
+    "city": "Dallas",
+    "totalRevenue": 127555.0,
+    "dealCount": 10,
+    "byPipeline": {
+      "national": {
+        "revenue": 127555.0,
+        "deals": 10
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 18500.0,
+        "deals": 1
+      },
+      "2023": {
+        "revenue": 58926.0,
+        "deals": 3
+      },
+      "2024": {
+        "revenue": 20516.0,
+        "deals": 2
+      },
+      "2025": {
+        "revenue": 26913.0,
+        "deals": 3
+      },
+      "2026": {
+        "revenue": 2700.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 7,
+    "showAcronyms": [
+      "ALPHA1",
+      "ASMBS",
+      "CHB",
+      "MDA",
+      "NBNA",
+      "OBESITY WEEK",
+      "PHA"
+    ],
+    "espressoSharePct": 50.2
+  },
+  {
+    "city": "Tampa",
+    "totalRevenue": 112896.0,
+    "dealCount": 6,
+    "byPipeline": {
+      "national": {
+        "revenue": 112896.0,
+        "deals": 6
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 63463.0,
+        "deals": 3
+      },
+      "2024": {
+        "revenue": 40533.0,
+        "deals": 2
+      },
+      "2026": {
+        "revenue": 8900.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "EXHIBITOR LIVE",
+      "HOPA",
+      "SGO"
+    ],
+    "espressoSharePct": 34.6
+  },
+  {
+    "city": "Miami Beach",
+    "totalRevenue": 105700.0,
+    "dealCount": 5,
+    "byPipeline": {
+      "national": {
+        "revenue": 105700.0,
+        "deals": 5
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 2696.0,
+        "deals": 1
+      },
+      "2023": {
+        "revenue": 25162.0,
+        "deals": 1
+      },
+      "2025": {
+        "revenue": 21363.0,
+        "deals": 1
+      },
+      "2026": {
+        "revenue": 56479.0,
+        "deals": 2
+      }
+    },
+    "distinctShows": 2,
+    "showAcronyms": [
+      "MBCC",
+      "STS"
+    ],
+    "espressoSharePct": 22.8
+  },
+  {
+    "city": "Toronto",
+    "totalRevenue": 98985.0,
+    "dealCount": 4,
+    "byPipeline": {
+      "national": {
+        "revenue": 98985.0,
+        "deals": 4
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 17352.0,
+        "deals": 1
+      },
+      "2024": {
+        "revenue": 81633.0,
+        "deals": 3
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "AATS",
+      "HITEC",
+      "SNMMI"
+    ],
+    "espressoSharePct": 42.9
+  },
+  {
+    "city": "St Louis",
+    "totalRevenue": 96420.0,
+    "dealCount": 14,
+    "byPipeline": {
+      "national": {
+        "revenue": 33235.0,
+        "deals": 5
+      },
+      "cafeLines": {
+        "revenue": 63185.0,
+        "deals": 9
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 24220.0,
+        "deals": 3
+      },
+      "2023": {
+        "revenue": 17805.0,
+        "deals": 4
+      },
+      "2024": {
+        "revenue": 52845.0,
+        "deals": 6
+      },
+      "2026": {
+        "revenue": 1550.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 11,
+    "showAcronyms": [
+      "ASLRRA",
+      "CIS",
+      "DRIVE",
+      "FOCUS",
+      "FOCUS SEEK",
+      "GRITT SUMMIT",
+      "MONATIONS",
+      "NAHC",
+      "PENS",
+      "PHARMACY FUTURES",
+      "SCALING NEW HEIGHTS"
+    ],
+    "espressoSharePct": 65.5
+  },
+  {
+    "city": "San Juan",
+    "totalRevenue": 78024.0,
+    "dealCount": 3,
+    "byPipeline": {
+      "national": {
+        "revenue": 78024.0,
+        "deals": 3
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2026": {
+        "revenue": 78024.0,
+        "deals": 3
+      }
+    },
+    "distinctShows": 2,
+    "showAcronyms": [
+      "NMA",
+      "SGO"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Rochester",
+    "totalRevenue": 70672.0,
+    "dealCount": 2,
+    "byPipeline": {
+      "national": {
+        "revenue": 70672.0,
+        "deals": 2
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 70672.0,
+        "deals": 2
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "ISA"
+    ],
+    "espressoSharePct": 42.2
+  },
+  {
+    "city": "Cleveland",
+    "totalRevenue": 61621.0,
+    "dealCount": 3,
+    "byPipeline": {
+      "national": {
+        "revenue": 61621.0,
+        "deals": 3
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 61621.0,
+        "deals": 3
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "HFSA"
+    ],
+    "espressoSharePct": 33.5
+  },
+  {
+    "city": "Vancouver",
+    "totalRevenue": 56734.0,
+    "dealCount": 3,
+    "byPipeline": {
+      "national": {
+        "revenue": 56734.0,
+        "deals": 3
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 16953.0,
+        "deals": 1
+      },
+      "2023": {
+        "revenue": 17007.0,
+        "deals": 1
+      },
+      "2024": {
+        "revenue": 22774.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "AAD IA",
+      "ACG",
+      "ASAPS"
+    ],
+    "espressoSharePct": 70.0
+  },
+  {
+    "city": "Portland",
+    "totalRevenue": 50241.0,
+    "dealCount": 3,
+    "byPipeline": {
+      "national": {
+        "revenue": 50241.0,
+        "deals": 3
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 3300.0,
+        "deals": 1
+      },
+      "2025": {
+        "revenue": 17386.0,
+        "deals": 1
+      },
+      "2026": {
+        "revenue": 29555.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "ASE",
+      "HOPA",
+      "THSNA"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Hollywood",
+    "totalRevenue": 48754.0,
+    "dealCount": 2,
+    "byPipeline": {
+      "national": {
+        "revenue": 48754.0,
+        "deals": 2
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 28499.0,
+        "deals": 1
+      },
+      "2024": {
+        "revenue": 20255.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 2,
+    "showAcronyms": [
+      "NABA",
+      "NASPGHAN"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "West Palm Beach",
+    "totalRevenue": 47537.0,
+    "dealCount": 3,
+    "byPipeline": {
+      "national": {
+        "revenue": 47537.0,
+        "deals": 3
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 12512.0,
+        "deals": 1
+      },
+      "2024": {
+        "revenue": 16646.0,
+        "deals": 1
+      },
+      "2025": {
+        "revenue": 18379.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "ACTRIMS"
+    ],
+    "espressoSharePct": 73.7
+  },
+  {
+    "city": "Kansas City",
+    "totalRevenue": 42534.39,
+    "dealCount": 3,
+    "byPipeline": {
+      "national": {
+        "revenue": 42534.39,
+        "deals": 3
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 13039.39,
+        "deals": 1
+      },
+      "2025": {
+        "revenue": 29495.0,
+        "deals": 2
+      }
+    },
+    "distinctShows": 3,
+    "showAcronyms": [
+      "NCPA",
+      "NETSMART USER CONFERENCE - CONNECTIONS",
+      "PENS"
+    ],
+    "espressoSharePct": 30.7
+  },
+  {
+    "city": "Bonita Springs",
+    "totalRevenue": 35978.0,
+    "dealCount": 2,
+    "byPipeline": {
+      "national": {
+        "revenue": 35978.0,
+        "deals": 2
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 35978.0,
+        "deals": 2
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "PENS"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Columbus",
+    "totalRevenue": 33524.0,
+    "dealCount": 2,
+    "byPipeline": {
+      "national": {
+        "revenue": 33524.0,
+        "deals": 2
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 16963.0,
+        "deals": 1
+      },
+      "2026": {
+        "revenue": 16561.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 2,
+    "showAcronyms": [
+      "NCPA",
+      "PENS"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Miami",
+    "totalRevenue": 27638.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 27638.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 27638.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "MBCC"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Washingon",
+    "totalRevenue": 23444.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 23444.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 23444.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "AASLD"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Pittsburgh",
+    "totalRevenue": 20635.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 20635.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 20635.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "EEX"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Rhode Island",
+    "totalRevenue": 19999.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 19999.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 19999.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "PME"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Alrington",
+    "totalRevenue": 19958.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 19958.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 19958.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "IGNS"
+    ],
+    "espressoSharePct": 100.0
+  },
+  {
+    "city": "Coronado",
+    "totalRevenue": 18795.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 18795.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 18795.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "HTRS"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Palm Springs",
+    "totalRevenue": 18189.18,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 18189.18,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 18189.18,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "ANNA"
+    ],
+    "espressoSharePct": 100.0
+  },
+  {
+    "city": "Phoneix",
+    "totalRevenue": 17863.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 17863.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 17863.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "ASHP"
+    ],
+    "espressoSharePct": 100.0
+  },
+  {
+    "city": "Texas",
+    "totalRevenue": 17151.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 17151.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 17151.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "TXBDC"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "San Juan, Puerto Rico",
+    "totalRevenue": 16777.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 16777.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 16777.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "USCHA"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Lombard",
+    "totalRevenue": 16465.0,
+    "dealCount": 2,
+    "byPipeline": {
+      "national": {
+        "revenue": 16465.0,
+        "deals": 2
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 8563.0,
+        "deals": 1
+      },
+      "2026": {
+        "revenue": 7902.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "MAGIC"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Schaumburg",
+    "totalRevenue": 8596.0,
+    "dealCount": 2,
+    "byPipeline": {
+      "national": {
+        "revenue": 8596.0,
+        "deals": 2
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 5362.0,
+        "deals": 1
+      },
+      "2026": {
+        "revenue": 3234.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 2,
+    "showAcronyms": [
+      "ANDRETTI RACING EVENT",
+      "RELIABLEPLANT"
+    ],
+    "espressoSharePct": 100.0
+  },
+  {
+    "city": "Rolling Meadows",
+    "totalRevenue": 6788.0,
+    "dealCount": 2,
+    "byPipeline": {
+      "national": {
+        "revenue": 6788.0,
+        "deals": 2
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 4080.0,
+        "deals": 1
+      },
+      "2026": {
+        "revenue": 2708.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "NORTHROP GRUMMAN"
+    ],
+    "espressoSharePct": 100.0
+  },
+  {
+    "city": "Detroit",
+    "totalRevenue": 4400.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 4400.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 4400.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "NACCHO"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Lake Forest",
+    "totalRevenue": 2362.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 2362.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 2362.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "LAURA EPSTEIN EVENTS"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Lincolnwood",
+    "totalRevenue": 2285.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 2285.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 2285.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "BRYN MAWR COUNTRY CLUB"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Barrington",
+    "totalRevenue": 2175.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 2175.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 2175.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "LIMELIGHT CATERING"
+    ],
+    "espressoSharePct": 100.0
+  },
+  {
+    "city": "Wheeling",
+    "totalRevenue": 2123.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 2123.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 2123.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "ARNOLD BAT MITZVAH"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "North Chicago",
+    "totalRevenue": 2100.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 2100.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 2100.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "LOCAL"
+    ],
+    "espressoSharePct": 100.0
+  },
+  {
+    "city": "Los Anegles",
+    "totalRevenue": 1825.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 0,
+        "deals": 0
+      },
+      "cafeLines": {
+        "revenue": 1825.0,
+        "deals": 1
+      }
+    },
+    "byYear": {
+      "2022": {
+        "revenue": 1825.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "LAAS"
+    ],
+    "espressoSharePct": 100.0
+  },
+  {
+    "city": "Plano",
+    "totalRevenue": 1300.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 1300.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 1300.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "TBDC"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Coeur D'Alene",
+    "totalRevenue": 1300.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 1300.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2025": {
+        "revenue": 1300.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "NW"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Colorado",
+    "totalRevenue": 1250.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 1250.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2026": {
+        "revenue": 1250.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "TGA"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "The Woodlands",
+    "totalRevenue": 1250.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 1250.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 1250.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "TXBDC"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Arlington",
+    "totalRevenue": 1250.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 1250.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 1250.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "PHPN"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Alexandria",
+    "totalRevenue": 950.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 950.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "revenue": 950.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "GBS / CIDP"
+    ],
+    "espressoSharePct": 0.0
+  },
+  {
+    "city": "Itasca",
+    "totalRevenue": 1.0,
+    "dealCount": 1,
+    "byPipeline": {
+      "national": {
+        "revenue": 1.0,
+        "deals": 1
+      },
+      "cafeLines": {
+        "revenue": 0,
+        "deals": 0
+      }
+    },
+    "byYear": {
+      "2024": {
+        "revenue": 1.0,
+        "deals": 1
+      }
+    },
+    "distinctShows": 1,
+    "showAcronyms": [
+      "CHICAGO RANDY CHARITY GOLF EVENT"
+    ],
+    "espressoSharePct": 100.0
+  }
+]

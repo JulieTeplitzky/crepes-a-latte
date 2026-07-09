@@ -1,0 +1,68 @@
+[
+  {
+    "cityPatternClass": "Fixed City",
+    "description": "Same city 3+ years. Revenue trend is a demand or menu signal, not a location one.",
+    "showCount": 24,
+    "dealCount": 507,
+    "totalRevenue": 9243189.19,
+    "revenueByPipeline": {
+      "National": 8232308.19,
+      "Cafe Lines": 1010881.0
+    },
+    "showCountByPipeline": {
+      "Cafe Lines": 5,
+      "National": 15,
+      "National + CL": 4
+    },
+    "showsWithMonthDrift": 12
+  },
+  {
+    "cityPatternClass": "Rotation with Anchor",
+    "description": "Rotates but repeats one city across the cycle.",
+    "showCount": 38,
+    "dealCount": 914,
+    "totalRevenue": 20571782.29,
+    "revenueByPipeline": {
+      "National": 19788587.29,
+      "Cafe Lines": 783195.0
+    },
+    "showCountByPipeline": {
+      "National + CL": 18,
+      "National": 20
+    },
+    "showsWithMonthDrift": 19
+  },
+  {
+    "cityPatternClass": "Full Rotation",
+    "description": "Different city each year. Revenue heavily influenced by which city they land in.",
+    "showCount": 68,
+    "dealCount": 997,
+    "totalRevenue": 22891596.27,
+    "revenueByPipeline": {
+      "National": 22366534.27,
+      "Cafe Lines": 525062.0
+    },
+    "showCountByPipeline": {
+      "National + CL": 20,
+      "National": 48
+    },
+    "showsWithMonthDrift": 36
+  },
+  {
+    "cityPatternClass": "One-Off / Custom",
+    "description": "Fewer than 3 years of history or unclassified. One-and-done or custom shows.",
+    "showCount": 335,
+    "dealCount": 929,
+    "totalRevenue": 7427843.77,
+    "revenueByPipeline": {
+      "National": 4464690.77,
+      "Cafe Lines": 2963153.0
+    },
+    "showCountByPipeline": {
+      "National": 163,
+      "Cafe Lines": 145,
+      "National + CL": 27
+    },
+    "showsWithMonthDrift": 0
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "title": "CAL Services and Location Analysis",
+  "dateRange": {
+    "start": "2022-01-01",
+    "end": "2026-07-07",
+    "label": "2022 to July 7 2026"
+  },
+  "generatedFrom": "CAL Services and Location Analysis 2022 to July 7 2026.xlsx",
+  "totals": {
+    "dealsInScope": 3347,
+    "national": {
+      "deals": 2196,
+      "revenue": 54852120.52
+    },
+    "cafeLines": {
+      "deals": 1151,
+      "revenue": 5282291.0
+    },
+    "grandRevenue": 60134411.52,
+    "uniqueShowAcronyms": 465,
+    "distinctCities": 81
+  },
+  "espressoSplit": {
+    "definition": "A deal counts as espresso if it includes Espresso Service. Revenue is not split within multi-service deals.",
+    "espressoRevenue": 34089454.61,
+    "otherRevenue": 26044956.91,
+    "espressoSharePct": 56.7
+  },
+  "pipelines": [
+    "National",
+    "Cafe Lines"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "yearLabels": {
+    "2022": "2022",
+    "2023": "2023",
+    "2024": "2024",
+    "2025": "2025",
+    "2026": "2026 YTD"
+  },
+  "definitions": {
+    "revenue": "Won deals at real dollar value. Show Close Date drives year/month bucketing.",
+    "cityPatternClasses": [
+      "Fixed City",
+      "Rotation with Anchor",
+      "Full Rotation",
+      "One-Off / Custom"
+    ],
+    "monthPatternClasses": [
+      "Fixed Month",
+      "Slight Drift",
+      "Significant Drift",
+      "Insufficient Data"
+    ],
+    "oneOffCustom": "Workbook 'Insufficient Data' shows (under 3 years of history) plus any acronym absent from the pattern classification, so summary views total to grand revenue."
+  },
+  "reconciliation": {
+    "status": "reconciled",
+    "note": "Two National deals carry no show acronym (Washington $5,645; city Unknown $13,195). They are retained in grand, city, and One-Off/Custom totals as the (Unspecified) show."
+  },
+  "branding": {
+    "purple": "#944197",
+    "textHeader": "#000000",
+    "bodyFont": "Karla",
+    "headerFont": "Bricolage Grotesque"
+  }
+}
