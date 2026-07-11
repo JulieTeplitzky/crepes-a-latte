@@ -6,7 +6,7 @@
     "end": "2026-07-07",
     "label": "2022 to July 7 2026"
   },
-  "generatedAt": "2026-07-10",
+  "generatedAt": "2026-07-11",
   "sourceFiles": [
     "Deals_July_7.csv",
     "cm_tradeshow_edition_fsids_20260709.csv",
@@ -41,7 +41,7 @@
       }
     },
     "grandRevenue": 59438114.52,
-    "uniqueShows": 488,
+    "uniqueShows": 486,
     "distinctCities": 82
   },
   "patternClasses": [

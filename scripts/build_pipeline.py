@@ -96,6 +96,11 @@ def is_cafelines(account):
     a = (account or "").upper()
     return any(tok in a for tok in CL_TOKENS)
 
+def canon_acr(a):
+    # Canonical acronym key: uppercase, collapse any run of non-alphanumerics
+    # to a single space. Merges "AACN/NTI", "AACN / NTI", "AACN NTI" into one.
+    return re.sub(r"[^A-Z0-9]+", " ", (a or "").upper()).strip() or "UNSPECIFIED"
+
 def has_espresso(desc):
     d = (desc or "").lower()
     return any(tok in d for tok in ESPRESSO_TOKENS)
@@ -138,7 +143,9 @@ for r in rows[1:]:
     if not acr_raw:
         acr_raw = "(Unspecified)"
     deals.append({
-        "acr": acr_raw.upper(),
+        # canonical key merges formatting variants of the same acronym
+        # (e.g. "AACN/NTI" and "AACN / NTI") so routes stay unique.
+        "acr": canon_acr(acr_raw),
         "acrRaw": acr_raw,
         "org": g(r, "Organization Event Name").strip(),
         "pipeline": "Cafe Lines" if is_cafelines(g(r, "Account name")) else "National",
@@ -234,8 +241,11 @@ for acr, ds in by_show.items():
         if entry:
             by_year[str(y)] = entry
 
+    # display acronym = most common raw formatting seen; slug from canonical key
+    display = "(Unspecified)" if acr == "UNSPECIFIED" else Counter(d["acrRaw"] for d in ds).most_common(1)[0][0]
     shows.append({
-        "acronym": acr if acr != "(UNSPECIFIED)" else "(Unspecified)",
+        "key": acr,  # internal canonical join key; removed before writing JSON
+        "acronym": display,
         "fullName": full_name(acr, ds),
         "slug": re.sub(r"[^a-z0-9]+", "-", acr.lower()).strip("-") or "unspecified",
         "pipelines": sorted({d["pipeline"] for d in ds}),
@@ -253,7 +263,7 @@ by_city = defaultdict(list)
 for d in deals:
     by_city[d["city"]].append(d)
 
-show_lookup = {s["acronym"]: s for s in shows}
+show_lookup = {s["key"]: s for s in shows}
 cities = []
 for city, ds in by_city.items():
     def tot(pipe):
@@ -272,8 +282,7 @@ for city, ds in by_city.items():
     acrs = sorted({d["acr"] for d in ds})
     show_rows = []
     for a in acrs:
-        key = a if a != "(UNSPECIFIED)" else "(Unspecified)"
-        s = show_lookup.get(key)
+        s = show_lookup.get(a)
         if not s:
             continue
         dd = [d for d in ds if d["acr"] == a]
@@ -311,13 +320,11 @@ CITY_CLASS_DESC = {
 }
 patterns = []
 for cls in ["Fixed City", "Rotation with Anchor", "Full Rotation", "Insufficient Data"]:
-    acrs = {s["acronym"].upper() for s in shows if s["cityPattern"]["class"] == cls}
-    acrs_norm = {a if a != "(UNSPECIFIED)" else "(UNSPECIFIED)" for a in acrs}
     members = [s for s in shows if s["cityPattern"]["class"] == cls]
     patterns.append({
         "key": cls, "kind": "cityClass", "description": CITY_CLASS_DESC[cls],
         "showCount": len(members),
-        "revenue": rev_split({s["acronym"].upper() if s["acronym"] != "(Unspecified)" else "(UNSPECIFIED)" for s in members}),
+        "revenue": rev_split({s["key"] for s in members}),
         "showAcronyms": [s["acronym"] for s in members],
     })
 drift_members = [s for s in shows if s["monthPattern"]["monthDrift"]]
@@ -325,7 +332,7 @@ patterns.append({
     "key": "Month Drift", "kind": "overlay",
     "description": "Month moves year to year, so YoY revenue can look like it wobbles when demand is steady. Overlaps the city classes; not additive to grand revenue.",
     "showCount": len(drift_members),
-    "revenue": rev_split({s["acronym"].upper() if s["acronym"] != "(Unspecified)" else "(UNSPECIFIED)" for s in drift_members}),
+    "revenue": rev_split({s["key"] for s in drift_members}),
     "showAcronyms": [s["acronym"] for s in drift_members],
 })
 
@@ -366,6 +373,9 @@ meta = {
 }
 
 # ---------------------------------------------------------------- write + verify
+for s in shows:
+    s.pop("key", None)  # internal join key, not part of the public schema
+
 def dump(name, obj):
     json.dump(obj, open(os.path.join(OUT, name), "w"), indent=2, ensure_ascii=False)
 dump("meta.json", meta); dump("shows.json", shows); dump("cities.json", cities); dump("patterns.json", patterns)

@@ -104,8 +104,8 @@
           "services": {
             "Espresso Service": 14,
             "Brownie": 2,
-            "Cupcake": 1,
             "Probiotic Crunch": 1,
+            "Cupcake": 1,
             "Artisan Grilled Cheese": 1,
             "Churros": 1,
             "Sweet & Savory Ricotta Crisp": 1,
@@ -136,8 +136,8 @@
             "Espresso Service": 12,
             "Infused Water Collection": 2,
             "Donut Holes": 1,
-            "Craft Soda Collection": 1,
             "Deep Dish Pizza": 1,
+            "Craft Soda Collection": 1,
             "Walking Tacos": 1,
             "Street Taco": 1,
             "Artisan Grilled Cheese": 1,
@@ -285,8 +285,8 @@
             "Churros": 2,
             "Brownie": 2,
             "Artisan Mocktails": 1,
-            "Macarons": 1,
-            "Strawberry Shortcake": 1
+            "Strawberry Shortcake": 1,
+            "Macarons": 1
           }
         }
       },
@@ -314,9 +314,9 @@
           "services": {
             "Espresso Service": 10,
             "Brownie": 3,
+            "Probiotic Crunch": 1,
             "American Harvest": 1,
             "Artisan Avocado Toast": 1,
-            "Probiotic Crunch": 1,
             "Churros": 1
           }
         }
@@ -631,8 +631,8 @@
           "deals": 12,
           "services": {
             "Espresso Service": 5,
-            "Apple Crisp": 2,
             "Fresca Citrus Collection": 2,
+            "Apple Crisp": 2,
             "Cinnamon Rolls": 1,
             "Frozen Coffee": 1,
             "Macarons": 1,
@@ -678,8 +678,8 @@
             "Cupcake": 1,
             "Parfait": 1,
             "Cannoli": 1,
-            "American Harvest": 1,
-            "Probiotic Crunch": 1
+            "Probiotic Crunch": 1,
+            "American Harvest": 1
           }
         }
       },
@@ -808,8 +808,8 @@
           "services": {
             "Espresso Service": 7,
             "Brownie": 1,
-            "Caramel Corn": 1,
-            "Cupcake": 1
+            "Cupcake": 1,
+            "Caramel Corn": 1
           }
         },
         "cafeLines": {
@@ -1503,8 +1503,8 @@
           "deals": 14,
           "services": {
             "Espresso Service": 4,
-            "American Harvest": 2,
             "Probiotic Crunch": 2,
+            "American Harvest": 2,
             "Cobbler": 1,
             "Cornet": 1,
             "Cinnamon Rolls": 1,
@@ -1615,8 +1615,8 @@
             "Espresso Service": 4,
             "Cornet": 1,
             "Fruit Skewers": 1,
-            "Caramel Corn": 1,
             "Cupcake": 1,
+            "Caramel Corn": 1,
             "Craft Soda Collection": 1
           }
         },
@@ -1638,8 +1638,8 @@
           "deals": 10,
           "services": {
             "Espresso Service": 5,
-            "Chocolate Chip Cookie Bar": 1,
             "S'mores": 1,
+            "Chocolate Chip Cookie Bar": 1,
             "Walking Tacos": 1
           }
         }
@@ -1665,8 +1665,8 @@
             "Espresso Service": 3,
             "Brownie": 2,
             "Cornet": 1,
-            "Macarons": 1,
-            "Probiotic Crunch": 1
+            "Probiotic Crunch": 1,
+            "Macarons": 1
           }
         }
       }
@@ -3372,8 +3372,8 @@
             "Espresso Service": 4,
             "Artisan Grilled Cheese": 1,
             "Caramel Corn": 1,
-            "American Harvest": 1,
-            "Probiotic Crunch": 1
+            "Probiotic Crunch": 1,
+            "American Harvest": 1
           }
         }
       }
@@ -3643,8 +3643,8 @@
           "deals": 4,
           "services": {
             "Espresso Service": 4,
-            "Cupcake": 1,
-            "Dark Chocolate Sea Salt Popcorn": 1
+            "Dark Chocolate Sea Salt Popcorn": 1,
+            "Cupcake": 1
           }
         }
       },
@@ -4246,8 +4246,8 @@
           "services": {
             "Espresso Service": 3,
             "Fresca Citrus Collection": 1,
-            "Cupcake": 1,
-            "Cinnamon Rolls": 1
+            "Cinnamon Rolls": 1,
+            "Cupcake": 1
           }
         }
       }
@@ -4631,8 +4631,8 @@
           "deals": 5,
           "services": {
             "Espresso Service": 2,
-            "American Harvest": 1,
-            "Probiotic Crunch": 1
+            "Probiotic Crunch": 1,
+            "American Harvest": 1
           }
         }
       }
@@ -6109,7 +6109,7 @@
     }
   },
   {
-    "acronym": "APHA",
+    "acronym": "APhA",
     "fullName": "American Pharmacists Association",
     "slug": "apha",
     "pipelines": [
@@ -6529,7 +6529,7 @@
     }
   },
   {
-    "acronym": "IGNS",
+    "acronym": "IgNS",
     "fullName": "Immunoglobulin National Society / National Conference",
     "slug": "igns",
     "pipelines": [
@@ -6586,8 +6586,8 @@
           "revenue": 57137.0,
           "deals": 2,
           "services": {
-            "Apple Crisp": 1,
-            "Espresso Service": 1
+            "Espresso Service": 1,
+            "Apple Crisp": 1
           }
         }
       },
@@ -6800,7 +6800,7 @@
     }
   },
   {
-    "acronym": "AAOPT",
+    "acronym": "AAOpt",
     "fullName": "American Academy of Optometry / Annual Meeting",
     "slug": "aaopt",
     "pipelines": [
@@ -6957,8 +6957,8 @@
           "deals": 3,
           "services": {
             "Espresso Service": 1,
-            "Yogurt Pretzels": 1,
-            "Probiotic Crunch": 1
+            "Probiotic Crunch": 1,
+            "Yogurt Pretzels": 1
           }
         }
       },
@@ -7165,7 +7165,7 @@
     }
   },
   {
-    "acronym": "OWNERS MEETING",
+    "acronym": "Owners Meeting",
     "fullName": "Owners Meeting",
     "slug": "owners-meeting",
     "pipelines": [
@@ -7546,7 +7546,7 @@
     }
   },
   {
-    "acronym": "AHS FALL",
+    "acronym": "AHS Fall",
     "fullName": "American Headache Society",
     "slug": "ahs-fall",
     "pipelines": [
@@ -7717,7 +7717,7 @@
     }
   },
   {
-    "acronym": "OBESITY WEEK",
+    "acronym": "Obesity Week",
     "fullName": "Obesity Week",
     "slug": "obesity-week",
     "pipelines": [
@@ -8009,8 +8009,8 @@
           "deals": 7,
           "services": {
             "Espresso Service": 6,
-            "Frozen Lemonade": 1,
-            "Frozen Coffee": 1
+            "Frozen Coffee": 1,
+            "Frozen Lemonade": 1
           }
         }
       },
@@ -8460,6 +8460,82 @@
     }
   },
   {
+    "acronym": "AAO (ORTHO)",
+    "fullName": "American Academy of Orthodontics",
+    "slug": "aao-ortho",
+    "pipelines": [
+      "Cafe Lines",
+      "National"
+    ],
+    "cityPattern": {
+      "class": "Full Rotation",
+      "anchorCity": null,
+      "anchorCount": null,
+      "label": "Full Rotation"
+    },
+    "monthPattern": {
+      "class": "Slight Drift",
+      "monthDrift": true,
+      "months": [
+        "Apr",
+        "May"
+      ],
+      "label": "Month Drift: Apr -> May"
+    },
+    "years": [
+      2023,
+      2025,
+      2026
+    ],
+    "totals": {
+      "national": {
+        "revenue": 76730.0,
+        "deals": 4,
+        "espressoSharePct": 100.0
+      },
+      "cafeLines": {
+        "revenue": 42125.0,
+        "deals": 11,
+        "espressoSharePct": 100.0
+      }
+    },
+    "byYear": {
+      "2023": {
+        "cafeLines": {
+          "city": "Chicago",
+          "month": "Apr",
+          "revenue": 42125.0,
+          "deals": 11,
+          "services": {
+            "Espresso Service": 11
+          }
+        }
+      },
+      "2025": {
+        "national": {
+          "city": "Philadelphia",
+          "month": "Apr",
+          "revenue": 56685.0,
+          "deals": 3,
+          "services": {
+            "Espresso Service": 3
+          }
+        }
+      },
+      "2026": {
+        "national": {
+          "city": "Orlando",
+          "month": "May",
+          "revenue": 20045.0,
+          "deals": 1,
+          "services": {
+            "Espresso Service": 1
+          }
+        }
+      }
+    }
+  },
+  {
     "acronym": "SITC",
     "fullName": "Society for Immunotherapy of Cancer / Annual Meeting",
     "slug": "sitc",
@@ -8611,7 +8687,7 @@
     }
   },
   {
-    "acronym": "LOCAL EVENT",
+    "acronym": "Local Event",
     "fullName": "Old Post Office",
     "slug": "local-event",
     "pipelines": [
@@ -9415,6 +9491,104 @@
     }
   },
   {
+    "acronym": "AACN/NTI",
+    "fullName": "American Association of Clinical Care Nurses / \nNational Teaching Institute",
+    "slug": "aacn-nti",
+    "pipelines": [
+      "Cafe Lines",
+      "National"
+    ],
+    "cityPattern": {
+      "class": "Full Rotation",
+      "anchorCity": null,
+      "anchorCount": null,
+      "label": "Full Rotation"
+    },
+    "monthPattern": {
+      "class": "Fixed Month",
+      "monthDrift": false,
+      "months": [
+        "May"
+      ],
+      "label": "Fixed Month: May"
+    },
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "totals": {
+      "national": {
+        "revenue": 94048.0,
+        "deals": 5,
+        "espressoSharePct": 0.0
+      },
+      "cafeLines": {
+        "revenue": 4025.0,
+        "deals": 1,
+        "espressoSharePct": 100.0
+      }
+    },
+    "byYear": {
+      "2022": {
+        "national": {
+          "city": "Houston",
+          "month": "May",
+          "revenue": 18269.0,
+          "deals": 1,
+          "services": {}
+        }
+      },
+      "2023": {
+        "national": {
+          "city": "Philadelphia",
+          "month": "May",
+          "revenue": 18127.0,
+          "deals": 1,
+          "services": {}
+        }
+      },
+      "2024": {
+        "national": {
+          "city": "Denver",
+          "month": "May",
+          "revenue": 14557.0,
+          "deals": 1,
+          "services": {}
+        }
+      },
+      "2025": {
+        "national": {
+          "city": "New Orleans",
+          "month": "May",
+          "revenue": 21874.0,
+          "deals": 1,
+          "services": {}
+        },
+        "cafeLines": {
+          "city": "New Orleans",
+          "month": "May",
+          "revenue": 4025.0,
+          "deals": 1,
+          "services": {
+            "Espresso Service": 1
+          }
+        }
+      },
+      "2026": {
+        "national": {
+          "city": "San Diego",
+          "month": "May",
+          "revenue": 21221.0,
+          "deals": 1,
+          "services": {}
+        }
+      }
+    }
+  },
+  {
     "acronym": "NADA",
     "fullName": "National Automobile Dealers Association",
     "slug": "nada",
@@ -10187,7 +10361,7 @@
     }
   },
   {
-    "acronym": "PACK EXPO",
+    "acronym": "Pack Expo",
     "fullName": "PACK EXPO",
     "slug": "pack-expo",
     "pipelines": [
@@ -10614,8 +10788,8 @@
           "revenue": 65388.0,
           "deals": 2,
           "services": {
-            "Donut Holes": 1,
             "Brownie": 1,
+            "Donut Holes": 1,
             "Espresso Service": 1,
             "Cupcake": 1
           }
@@ -10690,8 +10864,8 @@
           "revenue": 26512.0,
           "deals": 1,
           "services": {
-            "Churros": 1,
             "Brownie": 1,
+            "Churros": 1,
             "Espresso Service": 1
           }
         }
@@ -11080,157 +11254,6 @@
     }
   },
   {
-    "acronym": "AACN/NTI",
-    "fullName": "American Association of Clinical Care Nurses / \nNational Teaching Institute",
-    "slug": "aacn-nti",
-    "pipelines": [
-      "Cafe Lines",
-      "National"
-    ],
-    "cityPattern": {
-      "class": "Full Rotation",
-      "anchorCity": null,
-      "anchorCount": null,
-      "label": "Full Rotation"
-    },
-    "monthPattern": {
-      "class": "Fixed Month",
-      "monthDrift": false,
-      "months": [
-        "May"
-      ],
-      "label": "Fixed Month: May"
-    },
-    "years": [
-      2022,
-      2023,
-      2024,
-      2025
-    ],
-    "totals": {
-      "national": {
-        "revenue": 72827.0,
-        "deals": 4,
-        "espressoSharePct": 0.0
-      },
-      "cafeLines": {
-        "revenue": 4025.0,
-        "deals": 1,
-        "espressoSharePct": 100.0
-      }
-    },
-    "byYear": {
-      "2022": {
-        "national": {
-          "city": "Houston",
-          "month": "May",
-          "revenue": 18269.0,
-          "deals": 1,
-          "services": {}
-        }
-      },
-      "2023": {
-        "national": {
-          "city": "Philadelphia",
-          "month": "May",
-          "revenue": 18127.0,
-          "deals": 1,
-          "services": {}
-        }
-      },
-      "2024": {
-        "national": {
-          "city": "Denver",
-          "month": "May",
-          "revenue": 14557.0,
-          "deals": 1,
-          "services": {}
-        }
-      },
-      "2025": {
-        "national": {
-          "city": "New Orleans",
-          "month": "May",
-          "revenue": 21874.0,
-          "deals": 1,
-          "services": {}
-        },
-        "cafeLines": {
-          "city": "New Orleans",
-          "month": "May",
-          "revenue": 4025.0,
-          "deals": 1,
-          "services": {
-            "Espresso Service": 1
-          }
-        }
-      }
-    }
-  },
-  {
-    "acronym": "AAO - ORTHO",
-    "fullName": "American Association of Orthodontists Annual Conference",
-    "slug": "aao-ortho",
-    "pipelines": [
-      "National"
-    ],
-    "cityPattern": {
-      "class": "Insufficient Data",
-      "anchorCity": null,
-      "anchorCount": null,
-      "label": "Insufficient Data for Pattern"
-    },
-    "monthPattern": {
-      "class": "Insufficient Data",
-      "monthDrift": false,
-      "months": [
-        "Apr",
-        "May"
-      ],
-      "label": "Insufficient Data for Pattern"
-    },
-    "years": [
-      2025,
-      2026
-    ],
-    "totals": {
-      "national": {
-        "revenue": 76730.0,
-        "deals": 4,
-        "espressoSharePct": 100.0
-      },
-      "cafeLines": {
-        "revenue": 0,
-        "deals": 0,
-        "espressoSharePct": 0.0
-      }
-    },
-    "byYear": {
-      "2025": {
-        "national": {
-          "city": "Philadelphia",
-          "month": "Apr",
-          "revenue": 56685.0,
-          "deals": 3,
-          "services": {
-            "Espresso Service": 3
-          }
-        }
-      },
-      "2026": {
-        "national": {
-          "city": "Orlando",
-          "month": "May",
-          "revenue": 20045.0,
-          "deals": 1,
-          "services": {
-            "Espresso Service": 1
-          }
-        }
-      }
-    }
-  },
-  {
     "acronym": "IBS",
     "fullName": "International Builders Show",
     "slug": "ibs",
@@ -11572,8 +11595,8 @@
           "deals": 2,
           "services": {
             "Espresso Service": 1,
-            "Macarons": 1,
-            "Brownie": 1
+            "Brownie": 1,
+            "Macarons": 1
           }
         }
       },
@@ -11776,8 +11799,8 @@
     }
   },
   {
-    "acronym": "NUTANIX .NEXT",
-    "fullName": "Nutanix",
+    "acronym": "Nutanix .Next",
+    "fullName": "Nutanix .Next",
     "slug": "nutanix-next",
     "pipelines": [
       "Cafe Lines",
@@ -12043,7 +12066,7 @@
     }
   },
   {
-    "acronym": "PAIN WEEK",
+    "acronym": "PAIN Week",
     "fullName": "PAIN Week",
     "slug": "pain-week",
     "pipelines": [
@@ -12595,7 +12618,7 @@
     }
   },
   {
-    "acronym": "ABBVIE",
+    "acronym": "Abbvie",
     "fullName": "Peninsula",
     "slug": "abbvie",
     "pipelines": [
@@ -12693,7 +12716,7 @@
     }
   },
   {
-    "acronym": "NSC SAFETY CONGRESS & EXPO",
+    "acronym": "NSC Safety Congress & Expo",
     "fullName": "National Safety Council",
     "slug": "nsc-safety-congress-expo",
     "pipelines": [
@@ -13013,7 +13036,7 @@
     }
   },
   {
-    "acronym": "SALESFORCE",
+    "acronym": "Salesforce",
     "fullName": "Salesforce",
     "slug": "salesforce",
     "pipelines": [
@@ -13966,7 +13989,7 @@
     }
   },
   {
-    "acronym": "MICROSOFT",
+    "acronym": "Microsoft",
     "fullName": "Microsoft",
     "slug": "microsoft",
     "pipelines": [
@@ -14316,7 +14339,7 @@
     }
   },
   {
-    "acronym": "EXHIBITOR LIVE",
+    "acronym": "Exhibitor Live",
     "fullName": "The Annual Conference and Exhibition for Trade Show and Corporate Event Marketing",
     "slug": "exhibitor-live",
     "pipelines": [
@@ -14578,56 +14601,6 @@
     }
   },
   {
-    "acronym": "AAO (ORTHO)",
-    "fullName": "American Academy of Orthodontics",
-    "slug": "aao-ortho",
-    "pipelines": [
-      "Cafe Lines"
-    ],
-    "cityPattern": {
-      "class": "Insufficient Data",
-      "anchorCity": null,
-      "anchorCount": null,
-      "label": "Insufficient Data for Pattern"
-    },
-    "monthPattern": {
-      "class": "Insufficient Data",
-      "monthDrift": false,
-      "months": [
-        "Apr"
-      ],
-      "label": "Insufficient Data for Pattern"
-    },
-    "years": [
-      2023
-    ],
-    "totals": {
-      "national": {
-        "revenue": 0,
-        "deals": 0,
-        "espressoSharePct": 0.0
-      },
-      "cafeLines": {
-        "revenue": 42125.0,
-        "deals": 11,
-        "espressoSharePct": 100.0
-      }
-    },
-    "byYear": {
-      "2023": {
-        "cafeLines": {
-          "city": "Chicago",
-          "month": "Apr",
-          "revenue": 42125.0,
-          "deals": 11,
-          "services": {
-            "Espresso Service": 11
-          }
-        }
-      }
-    }
-  },
-  {
     "acronym": "NCS",
     "fullName": "Neurocritical Care Society",
     "slug": "ncs",
@@ -14691,7 +14664,7 @@
     }
   },
   {
-    "acronym": "AAOTH",
+    "acronym": "AAOth",
     "fullName": "American Association of Orthodontists",
     "slug": "aaoth",
     "pipelines": [
@@ -14803,7 +14776,7 @@
     }
   },
   {
-    "acronym": "THE RUNNING EVENT",
+    "acronym": "The Running Event",
     "fullName": "The Running Event",
     "slug": "the-running-event",
     "pipelines": [
@@ -15182,7 +15155,7 @@
     }
   },
   {
-    "acronym": "NATCON",
+    "acronym": "NatCon",
     "fullName": "National Council for Mental Wellbeing",
     "slug": "natcon",
     "pipelines": [
@@ -15367,7 +15340,7 @@
     }
   },
   {
-    "acronym": "NEOCON",
+    "acronym": "Neocon",
     "fullName": "NEOCON",
     "slug": "neocon",
     "pipelines": [
@@ -15441,7 +15414,7 @@
     }
   },
   {
-    "acronym": "NEURIPS",
+    "acronym": "NeurIPS",
     "fullName": "Neural Information Processing Systems",
     "slug": "neurips",
     "pipelines": [
@@ -15485,8 +15458,8 @@
           "deals": 1,
           "services": {
             "S'mores Bites": 1,
-            "Espresso Service": 1,
-            "S'mores": 1
+            "S'mores": 1,
+            "Espresso Service": 1
           }
         }
       }
@@ -15543,7 +15516,7 @@
     }
   },
   {
-    "acronym": "LEADINGAGE",
+    "acronym": "LeadingAge",
     "fullName": "LeadingAge",
     "slug": "leadingage",
     "pipelines": [
@@ -16056,7 +16029,7 @@
     }
   },
   {
-    "acronym": "THE AESTHETIC MEETING",
+    "acronym": "The Aesthetic Meeting",
     "fullName": "The Aesthetic Society",
     "slug": "the-aesthetic-meeting",
     "pipelines": [
@@ -16355,7 +16328,7 @@
     }
   },
   {
-    "acronym": "WORLD SYMPOSIUM",
+    "acronym": "WORLD Symposium",
     "fullName": "We're Organizing Research on Lysosomal Diseases Symposium",
     "slug": "world-symposium",
     "pipelines": [
@@ -16615,7 +16588,7 @@
     }
   },
   {
-    "acronym": "VIVE",
+    "acronym": "ViVE",
     "fullName": "Virtual Integrated Value-based Experience",
     "slug": "vive",
     "pipelines": [
@@ -16737,7 +16710,7 @@
     }
   },
   {
-    "acronym": "CHICAGO COLLECTIVE",
+    "acronym": "Chicago Collective",
     "fullName": "Foodstuffs",
     "slug": "chicago-collective",
     "pipelines": [
@@ -17010,7 +16983,7 @@
     }
   },
   {
-    "acronym": "CHILDREN WITH DIABETES - FRIENDS FOR LIFE",
+    "acronym": "Children with Diabetes - Friends for Life",
     "fullName": "Children with Diabetes/Friends for Life",
     "slug": "children-with-diabetes-friends-for-life",
     "pipelines": [
@@ -17291,7 +17264,7 @@
     }
   },
   {
-    "acronym": "MCKESSON ACCELERATE",
+    "acronym": "McKesson Accelerate",
     "fullName": "McKesson Accelerate",
     "slug": "mckesson-accelerate",
     "pipelines": [
@@ -17489,7 +17462,7 @@
     }
   },
   {
-    "acronym": "SCTE TECHEXPO",
+    "acronym": "SCTE TechExpo",
     "fullName": "SCTE TechExpo",
     "slug": "scte-techexpo",
     "pipelines": [
@@ -17672,7 +17645,7 @@
     }
   },
   {
-    "acronym": "SHOP TALK FALL",
+    "acronym": "Shop Talk Fall",
     "fullName": "Shop Talk Fall",
     "slug": "shop-talk-fall",
     "pipelines": [
@@ -17785,54 +17758,6 @@
     }
   },
   {
-    "acronym": "AACN / NTI",
-    "fullName": "American Association of Critical-Care Nurses / National Teaching Institute",
-    "slug": "aacn-nti",
-    "pipelines": [
-      "National"
-    ],
-    "cityPattern": {
-      "class": "Insufficient Data",
-      "anchorCity": null,
-      "anchorCount": null,
-      "label": "Insufficient Data for Pattern"
-    },
-    "monthPattern": {
-      "class": "Insufficient Data",
-      "monthDrift": false,
-      "months": [
-        "May"
-      ],
-      "label": "Insufficient Data for Pattern"
-    },
-    "years": [
-      2026
-    ],
-    "totals": {
-      "national": {
-        "revenue": 21221.0,
-        "deals": 1,
-        "espressoSharePct": 0.0
-      },
-      "cafeLines": {
-        "revenue": 0,
-        "deals": 0,
-        "espressoSharePct": 0.0
-      }
-    },
-    "byYear": {
-      "2026": {
-        "national": {
-          "city": "San Diego",
-          "month": "May",
-          "revenue": 21221.0,
-          "deals": 1,
-          "services": {}
-        }
-      }
-    }
-  },
-  {
     "acronym": "TIHS",
     "fullName": "The Inspired Home Show",
     "slug": "tihs",
@@ -17907,7 +17832,7 @@
     }
   },
   {
-    "acronym": "ALLIANCE ANNUAL",
+    "acronym": "Alliance Annual",
     "fullName": "Alliance Annual",
     "slug": "alliance-annual",
     "pipelines": [
@@ -18473,7 +18398,7 @@
     }
   },
   {
-    "acronym": "VMWARE EXPLORE",
+    "acronym": "VMware Explore",
     "fullName": "VMware Explore",
     "slug": "vmware-explore",
     "pipelines": [
@@ -18523,7 +18448,7 @@
     }
   },
   {
-    "acronym": "SHOP TALK",
+    "acronym": "Shop Talk",
     "fullName": "Shop Talk",
     "slug": "shop-talk",
     "pipelines": [
@@ -18673,7 +18598,7 @@
     }
   },
   {
-    "acronym": "SUPERZOO",
+    "acronym": "SuperZoo",
     "fullName": "SuperZoo",
     "slug": "superzoo",
     "pipelines": [
@@ -18822,7 +18747,7 @@
     }
   },
   {
-    "acronym": "LABCORP",
+    "acronym": "LabCorp",
     "fullName": "LabCorp",
     "slug": "labcorp",
     "pipelines": [
@@ -18870,7 +18795,7 @@
     }
   },
   {
-    "acronym": "COMMUNITY SUMMIT NA",
+    "acronym": "Community Summit NA",
     "fullName": "Community Summit North America",
     "slug": "community-summit-na",
     "pipelines": [
@@ -18968,7 +18893,7 @@
     }
   },
   {
-    "acronym": "ANCC MAGNET",
+    "acronym": "ANCC Magnet",
     "fullName": "American Nurses Association Magnet Pathway",
     "slug": "ancc-magnet",
     "pipelines": [
@@ -19018,7 +18943,7 @@
     }
   },
   {
-    "acronym": "MORNING STAR",
+    "acronym": "Morning Star",
     "fullName": "Morning Star",
     "slug": "morning-star",
     "pipelines": [
@@ -19539,7 +19464,7 @@
     }
   },
   {
-    "acronym": "LEADING AGE",
+    "acronym": "Leading Age",
     "fullName": "education",
     "slug": "leading-age",
     "pipelines": [
@@ -19741,7 +19666,7 @@
     }
   },
   {
-    "acronym": "HYATT",
+    "acronym": "Hyatt",
     "fullName": "Holiday Party",
     "slug": "hyatt",
     "pipelines": [
@@ -19928,7 +19853,7 @@
     }
   },
   {
-    "acronym": "MAKING STRIDES AGAINST BREAST CANCER",
+    "acronym": "Making Strides Against Breast Cancer",
     "fullName": "American Cancer Society",
     "slug": "making-strides-against-breast-cancer",
     "pipelines": [
@@ -20103,7 +20028,7 @@
     }
   },
   {
-    "acronym": "FRIENDS FOR LIFE",
+    "acronym": "Friends For Life",
     "fullName": "Friends For Life - Children with Diabetes",
     "slug": "friends-for-life",
     "pipelines": [
@@ -20201,7 +20126,7 @@
     }
   },
   {
-    "acronym": "NETSMART USER CONFERENCE - CONNECTIONS 2024",
+    "acronym": "NetSmart User Conference - Connections 2024",
     "fullName": "NetSmart",
     "slug": "netsmart-user-conference-connections-2024",
     "pipelines": [
@@ -20251,7 +20176,7 @@
     }
   },
   {
-    "acronym": "NETSMART USER CONFERENCE - CONNECTIONS",
+    "acronym": "NetSmart User Conference - Connections",
     "fullName": "NetSmart",
     "slug": "netsmart-user-conference-connections",
     "pipelines": [
@@ -20301,7 +20226,7 @@
     }
   },
   {
-    "acronym": "WASTE EXPO",
+    "acronym": "Waste Expo",
     "fullName": "Waste Expo",
     "slug": "waste-expo",
     "pipelines": [
@@ -20464,7 +20389,7 @@
     }
   },
   {
-    "acronym": "EXHIBITORLIVE 2022",
+    "acronym": "ExhibitorLive 2022",
     "fullName": "Exhibitor Live",
     "slug": "exhibitorlive-2022",
     "pipelines": [
@@ -20514,7 +20439,7 @@
     }
   },
   {
-    "acronym": "XEROCON",
+    "acronym": "Xerocon",
     "fullName": "Xero Convention",
     "slug": "xerocon",
     "pipelines": [
@@ -20564,7 +20489,7 @@
     }
   },
   {
-    "acronym": "EXPO CHICAGO",
+    "acronym": "Expo Chicago",
     "fullName": "Expo Chicago",
     "slug": "expo-chicago",
     "pipelines": [
@@ -20676,7 +20601,7 @@
     }
   },
   {
-    "acronym": "CINE GEAR EXPO",
+    "acronym": "Cine Gear Expo",
     "fullName": "Cine Gear Expo",
     "slug": "cine-gear-expo",
     "pipelines": [
@@ -20824,7 +20749,7 @@
     }
   },
   {
-    "acronym": "HILTON",
+    "acronym": "Hilton",
     "fullName": "Hilton",
     "slug": "hilton",
     "pipelines": [
@@ -20944,7 +20869,7 @@
     }
   },
   {
-    "acronym": "CNS (PED)",
+    "acronym": "CNS (Ped)",
     "fullName": "Child Neurology Society",
     "slug": "cns-ped",
     "pipelines": [
@@ -20994,7 +20919,7 @@
     }
   },
   {
-    "acronym": "NEI SYNAPSE",
+    "acronym": "NEI Synapse",
     "fullName": "Neuroscience Education Institute Synapse",
     "slug": "nei-synapse",
     "pipelines": [
@@ -21190,7 +21115,7 @@
     }
   },
   {
-    "acronym": "MICROSOFT CIO SUMMIT",
+    "acronym": "Microsoft CIO Summit",
     "fullName": "Microsoft CIO Summit",
     "slug": "microsoft-cio-summit",
     "pipelines": [
@@ -21350,7 +21275,7 @@
     }
   },
   {
-    "acronym": "DS EVENTS",
+    "acronym": "DS Events",
     "fullName": "Nestle",
     "slug": "ds-events",
     "pipelines": [
@@ -21513,7 +21438,7 @@
     }
   },
   {
-    "acronym": "COMMODITY CLASSIC",
+    "acronym": "Commodity Classic",
     "fullName": "Commodity Classic",
     "slug": "commodity-classic",
     "pipelines": [
@@ -21563,7 +21488,7 @@
     }
   },
   {
-    "acronym": "WORKBOAT",
+    "acronym": "workboat",
     "fullName": "workboat",
     "slug": "workboat",
     "pipelines": [
@@ -21613,7 +21538,7 @@
     }
   },
   {
-    "acronym": "RETAILX",
+    "acronym": "RetailX",
     "fullName": "RetailX",
     "slug": "retailx",
     "pipelines": [
@@ -21663,7 +21588,7 @@
     }
   },
   {
-    "acronym": "MORNINGSTAR INVESTMENT CONFERENCE",
+    "acronym": "Morningstar Investment Conference",
     "fullName": "Morningstar",
     "slug": "morningstar-investment-conference",
     "pipelines": [
@@ -21787,7 +21712,7 @@
     }
   },
   {
-    "acronym": "IAEE EXPO EXPO",
+    "acronym": "IAEE Expo Expo",
     "fullName": "International Association of Exhibitions and Events",
     "slug": "iaee-expo-expo",
     "pipelines": [
@@ -21835,7 +21760,7 @@
     }
   },
   {
-    "acronym": "SMITHBUCKLIN",
+    "acronym": "Smithbucklin",
     "fullName": "(International Association of Business Communicators)",
     "slug": "smithbucklin",
     "pipelines": [
@@ -21885,7 +21810,7 @@
     }
   },
   {
-    "acronym": "MONATIONS",
+    "acronym": "Monations",
     "fullName": "Monations",
     "slug": "monations",
     "pipelines": [
@@ -22049,7 +21974,7 @@
     }
   },
   {
-    "acronym": "CLEAN POWER",
+    "acronym": "Clean Power",
     "fullName": "American Clean Power Association",
     "slug": "clean-power",
     "pipelines": [
@@ -22249,7 +22174,7 @@
     }
   },
   {
-    "acronym": "NSC CONGRESS & EXPO",
+    "acronym": "NSC Congress & Expo",
     "fullName": "National Safety Council Congress & Expo",
     "slug": "nsc-congress-expo",
     "pipelines": [
@@ -22299,7 +22224,7 @@
     }
   },
   {
-    "acronym": "CONFLUENT CURRENT",
+    "acronym": "Confluent Current",
     "fullName": "Confluent Current",
     "slug": "confluent-current",
     "pipelines": [
@@ -22511,7 +22436,7 @@
     }
   },
   {
-    "acronym": "PROCORE GROUNDBREAK",
+    "acronym": "Procore Groundbreak",
     "fullName": "Procore Groundbreak",
     "slug": "procore-groundbreak",
     "pipelines": [
@@ -22671,7 +22596,7 @@
     }
   },
   {
-    "acronym": "GYMNASTICS TOURNAMENT",
+    "acronym": "Gymnastics Tournament",
     "fullName": "Gymnastics Tournament",
     "slug": "gymnastics-tournament",
     "pipelines": [
@@ -22721,7 +22646,7 @@
     }
   },
   {
-    "acronym": "DESTINATION INTERNATIONAL",
+    "acronym": "Destination International",
     "fullName": "Annual Convention and Visitor Services Summit",
     "slug": "destination-international",
     "pipelines": [
@@ -22771,7 +22696,7 @@
     }
   },
   {
-    "acronym": "NORTHROP GRUMMAN",
+    "acronym": "Northrop Grumman",
     "fullName": "Northrop Grumman",
     "slug": "northrop-grumman",
     "pipelines": [
@@ -22849,7 +22774,7 @@
     }
   },
   {
-    "acronym": "VEEVA SUMMIT",
+    "acronym": "Veeva Summit",
     "fullName": "Veeva Summit",
     "slug": "veeva-summit",
     "pipelines": [
@@ -22892,16 +22817,16 @@
           "revenue": 8780.0,
           "deals": 1,
           "services": {
-            "Frozen Lemonade": 1,
-            "Frozen Coffee": 1
+            "Frozen Coffee": 1,
+            "Frozen Lemonade": 1
           }
         }
       }
     }
   },
   {
-    "acronym": "DISABILITY: IN",
-    "fullName": "Disability IN",
+    "acronym": "Disability: IN",
+    "fullName": "Disability: IN",
     "slug": "disability-in",
     "pipelines": [
       "National"
@@ -23159,7 +23084,7 @@
     }
   },
   {
-    "acronym": "SERVICE NOW",
+    "acronym": "Service Now",
     "fullName": "Service Now",
     "slug": "service-now",
     "pipelines": [
@@ -23209,7 +23134,7 @@
     }
   },
   {
-    "acronym": "SNACKS & SWEETS",
+    "acronym": "Snacks & Sweets",
     "fullName": "Snacks & Sweets",
     "slug": "snacks-sweets",
     "pipelines": [
@@ -23422,7 +23347,7 @@
     }
   },
   {
-    "acronym": "VET TOGETHER / SMILE TOGETHER",
+    "acronym": "Vet Together / Smile Together",
     "fullName": "Vet Together / Smile Together",
     "slug": "vet-together-smile-together",
     "pipelines": [
@@ -23572,7 +23497,7 @@
     }
   },
   {
-    "acronym": "LOS ANGELES AUTO SHOW",
+    "acronym": "Los Angeles Auto Show",
     "fullName": "Los Angeles Auto Show",
     "slug": "los-angeles-auto-show",
     "pipelines": [
@@ -23722,7 +23647,7 @@
     }
   },
   {
-    "acronym": "AICHE",
+    "acronym": "AIChE",
     "fullName": "AIChE",
     "slug": "aiche",
     "pipelines": [
@@ -23882,7 +23807,7 @@
     }
   },
   {
-    "acronym": "SCALING NEW HEIGHTS",
+    "acronym": "Scaling New Heights",
     "fullName": "Scaling New Heights",
     "slug": "scaling-new-heights",
     "pipelines": [
@@ -23982,7 +23907,7 @@
     }
   },
   {
-    "acronym": "SAGE",
+    "acronym": "Sage",
     "fullName": "Sage",
     "slug": "sage",
     "pipelines": [
@@ -24128,7 +24053,7 @@
     }
   },
   {
-    "acronym": "FOCUS SEEK 2023",
+    "acronym": "Focus Seek 2023",
     "fullName": "Focus Seek 2023",
     "slug": "focus-seek-2023",
     "pipelines": [
@@ -24391,7 +24316,7 @@
     }
   },
   {
-    "acronym": "MORNINGSTAR",
+    "acronym": "Morningstar",
     "fullName": "Morningstar",
     "slug": "morningstar",
     "pipelines": [
@@ -24441,7 +24366,7 @@
     }
   },
   {
-    "acronym": "JUICE STUDIOS",
+    "acronym": "Juice Studios",
     "fullName": "Juice Studios",
     "slug": "juice-studios",
     "pipelines": [
@@ -24491,7 +24416,7 @@
     }
   },
   {
-    "acronym": "SMILECON24",
+    "acronym": "SmileCon24",
     "fullName": "American Dental Association",
     "slug": "smilecon24",
     "pipelines": [
@@ -24541,7 +24466,7 @@
     }
   },
   {
-    "acronym": "RELIABLEPLANT",
+    "acronym": "ReliablePlant",
     "fullName": "ReliablePlant",
     "slug": "reliableplant",
     "pipelines": [
@@ -24992,7 +24917,7 @@
     }
   },
   {
-    "acronym": "TECH SHOW",
+    "acronym": "Tech Show",
     "fullName": "Lawyers in Love",
     "slug": "tech-show",
     "pipelines": [
@@ -25192,7 +25117,7 @@
     }
   },
   {
-    "acronym": "MARITZ",
+    "acronym": "Maritz",
     "fullName": "Rockwell Automation",
     "slug": "maritz",
     "pipelines": [
@@ -25242,7 +25167,7 @@
     }
   },
   {
-    "acronym": "WEDDING",
+    "acronym": "Wedding",
     "fullName": "Peninsula",
     "slug": "wedding",
     "pipelines": [
@@ -25355,7 +25280,7 @@
     }
   },
   {
-    "acronym": "PENINSULA",
+    "acronym": "Peninsula",
     "fullName": "Peninsula",
     "slug": "peninsula",
     "pipelines": [
@@ -25556,7 +25481,7 @@
     }
   },
   {
-    "acronym": "LOCAL CHICAGO EVENT",
+    "acronym": "Local Chicago Event",
     "fullName": "Local Chicago Event",
     "slug": "local-chicago-event",
     "pipelines": [
@@ -25606,7 +25531,7 @@
     }
   },
   {
-    "acronym": "INTERNATIONAL WORK BOAT SHOW",
+    "acronym": "International Work Boat Show",
     "fullName": "International Work Boat Show",
     "slug": "international-work-boat-show",
     "pipelines": [
@@ -25704,7 +25629,7 @@
     }
   },
   {
-    "acronym": "FIELD MUSEUM",
+    "acronym": "Field Museum",
     "fullName": "Field Museum",
     "slug": "field-museum",
     "pipelines": [
@@ -25754,7 +25679,7 @@
     }
   },
   {
-    "acronym": "MCMASTER CARR",
+    "acronym": "McMaster Carr",
     "fullName": "McMaster Carr",
     "slug": "mcmaster-carr",
     "pipelines": [
@@ -25804,7 +25729,7 @@
     }
   },
   {
-    "acronym": "SENIOR LIVING EXEC CONFERENCE",
+    "acronym": "Senior Living Exec Conference",
     "fullName": "Senior Living Exec Conference",
     "slug": "senior-living-exec-conference",
     "pipelines": [
@@ -25960,15 +25885,15 @@
           "revenue": 3725.0,
           "deals": 1,
           "services": {
-            "Caramel Corn": 1,
-            "Espresso Service": 1
+            "Espresso Service": 1,
+            "Caramel Corn": 1
           }
         }
       }
     }
   },
   {
-    "acronym": "WBENC NATIONAL CONFERENCE",
+    "acronym": "WBENC National Conference",
     "fullName": "Women’s Business Enterprise National Council",
     "slug": "wbenc-national-conference",
     "pipelines": [
@@ -26168,7 +26093,7 @@
     }
   },
   {
-    "acronym": "KIMPTON GREY",
+    "acronym": "Kimpton Grey",
     "fullName": "Kimpton Grey",
     "slug": "kimpton-grey",
     "pipelines": [
@@ -26218,7 +26143,7 @@
     }
   },
   {
-    "acronym": "CHICAGO VALUES",
+    "acronym": "Chicago Values",
     "fullName": "Chicago Values",
     "slug": "chicago-values",
     "pipelines": [
@@ -26268,7 +26193,7 @@
     }
   },
   {
-    "acronym": "MCKESSON IDEASHARE",
+    "acronym": "McKesson IdeaShare",
     "fullName": "McKesson IdeaShare",
     "slug": "mckesson-ideashare",
     "pipelines": [
@@ -26327,7 +26252,7 @@
     }
   },
   {
-    "acronym": "CONNECTIVITY EXPO",
+    "acronym": "Connectivity Expo",
     "fullName": "Connectivity Expo",
     "slug": "connectivity-expo",
     "pipelines": [
@@ -26377,7 +26302,7 @@
     }
   },
   {
-    "acronym": "POWERGEN",
+    "acronym": "Powergen",
     "fullName": "Powergen",
     "slug": "powergen",
     "pipelines": [
@@ -26427,7 +26352,7 @@
     }
   },
   {
-    "acronym": "SUPER BOWL VIP EVENT",
+    "acronym": "Super Bowl VIP Event",
     "fullName": "Super Bowl VIP Event",
     "slug": "super-bowl-vip-event",
     "pipelines": [
@@ -26475,7 +26400,7 @@
     }
   },
   {
-    "acronym": "SUMMIT OF AMERICAS",
+    "acronym": "Summit of Americas",
     "fullName": "Summit of Americas",
     "slug": "summit-of-americas",
     "pipelines": [
@@ -26735,7 +26660,7 @@
     }
   },
   {
-    "acronym": "ANDRETTI RACING EVENT",
+    "acronym": "Andretti Racing Event",
     "fullName": "DS Events",
     "slug": "andretti-racing-event",
     "pipelines": [
@@ -26785,7 +26710,7 @@
     }
   },
   {
-    "acronym": "CHICAGO AUTO SHOW",
+    "acronym": "Chicago Auto Show",
     "fullName": "Chicago Auto Show",
     "slug": "chicago-auto-show",
     "pipelines": [
@@ -26847,7 +26772,7 @@
     }
   },
   {
-    "acronym": "O'HARE HYATT",
+    "acronym": "O'Hare Hyatt",
     "fullName": "DS Events",
     "slug": "o-hare-hyatt",
     "pipelines": [
@@ -26956,7 +26881,7 @@
     }
   },
   {
-    "acronym": "ELLUCIAN",
+    "acronym": "Ellucian",
     "fullName": "Ellucian",
     "slug": "ellucian",
     "pipelines": [
@@ -27004,7 +26929,7 @@
     }
   },
   {
-    "acronym": "PALMER HOUSE",
+    "acronym": "Palmer House",
     "fullName": "Savills",
     "slug": "palmer-house",
     "pipelines": [
@@ -27104,7 +27029,7 @@
     }
   },
   {
-    "acronym": "SUSAN G KOMEN RACE FOR THE CURE",
+    "acronym": "Susan G Komen Race for the Cure",
     "fullName": "Susan G Komen Race for the Cure",
     "slug": "susan-g-komen-race-for-the-cure",
     "pipelines": [
@@ -27152,7 +27077,7 @@
     }
   },
   {
-    "acronym": "GOOD 2 GREAT",
+    "acronym": "Good 2 Great",
     "fullName": "Good 2 Great",
     "slug": "good-2-great",
     "pipelines": [
@@ -27202,7 +27127,7 @@
     }
   },
   {
-    "acronym": "RACE FOR THE CURE",
+    "acronym": "Race for the Cure",
     "fullName": "Race for the Cure",
     "slug": "race-for-the-cure",
     "pipelines": [
@@ -27250,7 +27175,7 @@
     }
   },
   {
-    "acronym": "ERNEST & YOUNG",
+    "acronym": "Ernest & Young",
     "fullName": "Ernest & Young",
     "slug": "ernest-young",
     "pipelines": [
@@ -27547,7 +27472,7 @@
     }
   },
   {
-    "acronym": "CITY OF HOPE - CANCER TREATMENT CENTER",
+    "acronym": "City of Hope - Cancer Treatment Center",
     "fullName": "Blue Plate",
     "slug": "city-of-hope-cancer-treatment-center",
     "pipelines": [
@@ -27597,7 +27522,7 @@
     }
   },
   {
-    "acronym": "RIVER ROAST",
+    "acronym": "River Roast",
     "fullName": "River Roast",
     "slug": "river-roast",
     "pipelines": [
@@ -27697,7 +27622,7 @@
     }
   },
   {
-    "acronym": "ACA INTERNATIONAL",
+    "acronym": "ACA international",
     "fullName": "association of credit and collection professionals",
     "slug": "aca-international",
     "pipelines": [
@@ -27747,7 +27672,7 @@
     }
   },
   {
-    "acronym": "AMERICAN PHYSICAL THERAPY ASSOCIATION COMBINED SECTIONS MEETING",
+    "acronym": "American Physical Therapy Association Combined Sections Meeting",
     "fullName": "American Physical Therapy Association Combined Sections Meeting",
     "slug": "american-physical-therapy-association-combined-sections-meeting",
     "pipelines": [
@@ -27795,7 +27720,7 @@
     }
   },
   {
-    "acronym": "BIOTECH WEEK",
+    "acronym": "BIOTECH Week",
     "fullName": "BIOTECH Week",
     "slug": "biotech-week",
     "pipelines": [
@@ -27886,16 +27811,16 @@
           "revenue": 2475.0,
           "deals": 1,
           "services": {
-            "S'mores": 1,
+            "Probiotic Crunch": 1,
             "S'mores Bites": 1,
-            "Probiotic Crunch": 1
+            "S'mores": 1
           }
         }
       }
     }
   },
   {
-    "acronym": "ROCKWELL ON THE RIVER",
+    "acronym": "Rockwell on the River",
     "fullName": "Rockwell on the River",
     "slug": "rockwell-on-the-river",
     "pipelines": [
@@ -27945,7 +27870,7 @@
     }
   },
   {
-    "acronym": "LAURA EPSTEIN EVENTS",
+    "acronym": "Laura Epstein Events",
     "fullName": "Leaf Wedding Reception",
     "slug": "laura-epstein-events",
     "pipelines": [
@@ -27993,7 +27918,7 @@
     }
   },
   {
-    "acronym": "MURGADO FORD LINCOLN DEALERSHIP",
+    "acronym": "Murgado Ford Lincoln Dealership",
     "fullName": "Murgado Ford Lincoln Dealership",
     "slug": "murgado-ford-lincoln-dealership",
     "pipelines": [
@@ -28043,7 +27968,7 @@
     }
   },
   {
-    "acronym": "BRYN MAWR COUNTRY CLUB",
+    "acronym": "Bryn Mawr Country Club",
     "fullName": "Bryn Mawr Country Club",
     "slug": "bryn-mawr-country-club",
     "pipelines": [
@@ -28139,7 +28064,7 @@
     }
   },
   {
-    "acronym": "CENCORA THOUGHTSPOT",
+    "acronym": "Cencora ThoughtSpot",
     "fullName": "Cencora ThoughtSpot",
     "slug": "cencora-thoughtspot",
     "pipelines": [
@@ -28235,7 +28160,7 @@
     }
   },
   {
-    "acronym": "LIMELIGHT CATERING",
+    "acronym": "Limelight Catering",
     "fullName": "Limelight Catering",
     "slug": "limelight-catering",
     "pipelines": [
@@ -28285,7 +28210,7 @@
     }
   },
   {
-    "acronym": "ARNOLD BAT MITZVAH",
+    "acronym": "Arnold Bat Mitzvah",
     "fullName": "Arnold Bat Mitzvah",
     "slug": "arnold-bat-mitzvah",
     "pipelines": [
@@ -28333,7 +28258,7 @@
     }
   },
   {
-    "acronym": "LOCAL",
+    "acronym": "local",
     "fullName": "AbbVie",
     "slug": "local",
     "pipelines": [
@@ -28431,7 +28356,7 @@
     }
   },
   {
-    "acronym": "BOSTON CONSULTING GROUP  11/8/2022",
+    "acronym": "Boston Consulting Group  11/8/2022",
     "fullName": "Boston Consulting Group  11/8/2022",
     "slug": "boston-consulting-group-11-8-2022",
     "pipelines": [
@@ -28481,7 +28406,7 @@
     }
   },
   {
-    "acronym": "AUTODESK",
+    "acronym": "AutoDesk",
     "fullName": "AutoDesk",
     "slug": "autodesk",
     "pipelines": [
@@ -28531,7 +28456,7 @@
     }
   },
   {
-    "acronym": "GOOD TO GREAT",
+    "acronym": "Good to Great",
     "fullName": "Good to Great",
     "slug": "good-to-great",
     "pipelines": [
@@ -28581,7 +28506,7 @@
     }
   },
   {
-    "acronym": "FORTUNE FISH",
+    "acronym": "Fortune Fish",
     "fullName": "Fortune Fish",
     "slug": "fortune-fish",
     "pipelines": [
@@ -28731,7 +28656,7 @@
     }
   },
   {
-    "acronym": "CHICAGO LOCAL",
+    "acronym": "Chicago Local",
     "fullName": "Chicago Local",
     "slug": "chicago-local",
     "pipelines": [
@@ -28781,7 +28706,7 @@
     }
   },
   {
-    "acronym": "CHICAGO EXPO",
+    "acronym": "Chicago Expo",
     "fullName": "Chicago Expo",
     "slug": "chicago-expo",
     "pipelines": [
@@ -28831,7 +28756,7 @@
     }
   },
   {
-    "acronym": "DINNER",
+    "acronym": "Dinner",
     "fullName": "Dinner",
     "slug": "dinner",
     "pipelines": [
@@ -28881,7 +28806,7 @@
     }
   },
   {
-    "acronym": "WORLD AMR",
+    "acronym": "World AMR",
     "fullName": "Antimicrobial Resistance Congress",
     "slug": "world-amr",
     "pipelines": [
@@ -29277,7 +29202,7 @@
     }
   },
   {
-    "acronym": "MATERIALS RESEARCH SOCIETY FALL MEETING",
+    "acronym": "Materials research Society Fall Meeting",
     "fullName": "MRS",
     "slug": "materials-research-society-fall-meeting",
     "pipelines": [
@@ -29325,7 +29250,7 @@
     }
   },
   {
-    "acronym": "BUILD EXPO",
+    "acronym": "Build Expo",
     "fullName": "Build Expo",
     "slug": "build-expo",
     "pipelines": [
@@ -29523,7 +29448,7 @@
     }
   },
   {
-    "acronym": "AMERICAN RENTAL ASSOCIATION",
+    "acronym": "American Rental Association",
     "fullName": "American Rental Association",
     "slug": "american-rental-association",
     "pipelines": [
@@ -29623,7 +29548,7 @@
     }
   },
   {
-    "acronym": "PHARMACY FUTURES",
+    "acronym": "Pharmacy Futures",
     "fullName": "Pharmacy Futures",
     "slug": "pharmacy-futures",
     "pipelines": [
@@ -29721,7 +29646,7 @@
     }
   },
   {
-    "acronym": "CHICAGO BUILD25",
+    "acronym": "Chicago BUILD25",
     "fullName": "BUILD25",
     "slug": "chicago-build25",
     "pipelines": [
@@ -29771,7 +29696,7 @@
     }
   },
   {
-    "acronym": "TRUSTMARK",
+    "acronym": "Trustmark",
     "fullName": "Trustmark",
     "slug": "trustmark",
     "pipelines": [
@@ -29867,7 +29792,7 @@
     }
   },
   {
-    "acronym": "NW PHARMARCY CONVENTION",
+    "acronym": "NW Pharmarcy Convention",
     "fullName": "Northwest Pharamacy Convention",
     "slug": "nw-pharmarcy-convention",
     "pipelines": [
@@ -30061,7 +29986,7 @@
     }
   },
   {
-    "acronym": "MIDWEST REGIONAL ESOP CONFERENCE",
+    "acronym": "Midwest Regional ESOP Conference",
     "fullName": "Midwest Regional ESOP",
     "slug": "midwest-regional-esop-conference",
     "pipelines": [
@@ -30303,7 +30228,7 @@
     }
   },
   {
-    "acronym": "GRITT SUMMIT",
+    "acronym": "Gritt Summit",
     "fullName": "GRITT",
     "slug": "gritt-summit",
     "pipelines": [
@@ -30353,7 +30278,7 @@
     }
   },
   {
-    "acronym": "CHICAGO RANDY CHARITY GOLF EVENT",
+    "acronym": "Chicago Randy Charity Golf Event",
     "fullName": "EDPA Midwest",
     "slug": "chicago-randy-charity-golf-event",
     "pipelines": [
@@ -30403,7 +30328,7 @@
     }
   },
   {
-    "acronym": "LAMBS FARM",
+    "acronym": "Lambs Farm",
     "fullName": "Lambs Farm",
     "slug": "lambs-farm",
     "pipelines": [
@@ -30453,7 +30378,7 @@
     }
   },
   {
-    "acronym": "HEALTHCARE CONVENTION & EXHIBITORS ASSOCIATION",
+    "acronym": "Healthcare Convention & Exhibitors Association",
     "fullName": "Healthcare Convention & Exhibitors Association",
     "slug": "healthcare-convention-exhibitors-association",
     "pipelines": [
@@ -30501,7 +30426,7 @@
     }
   },
   {
-    "acronym": "HIMSS23 DIAMOND SUMMIT",
+    "acronym": "HIMSS23 Diamond Summit",
     "fullName": "HIMSS23 Diamond Summit",
     "slug": "himss23-diamond-summit",
     "pipelines": [
@@ -30597,7 +30522,7 @@
     }
   },
   {
-    "acronym": "EDPA - ACCESS",
+    "acronym": "EDPA - Access",
     "fullName": "EDPA",
     "slug": "edpa-access",
     "pipelines": [
@@ -30670,7 +30595,7 @@
     }
   },
   {
-    "acronym": "MERCK TECH DAY",
+    "acronym": "Merck Tech Day",
     "fullName": "Merck Tech Day",
     "slug": "merck-tech-day",
     "pipelines": [
@@ -30793,7 +30718,7 @@
     }
   },
   {
-    "acronym": "IT'S HER SHOT",
+    "acronym": "It's Her Shot",
     "fullName": "It's Her Shot",
     "slug": "it-s-her-shot",
     "pipelines": [
@@ -30841,7 +30766,7 @@
     }
   },
   {
-    "acronym": "RETHINK 2025",
+    "acronym": "Rethink 2025",
     "fullName": "Rethink 2025",
     "slug": "rethink-2025",
     "pipelines": [
@@ -30891,7 +30816,7 @@
     }
   },
   {
-    "acronym": "CAL SUMMER ROADSHOW",
+    "acronym": "CAL Summer Roadshow",
     "fullName": "CAL Summer Roadshow",
     "slug": "cal-summer-roadshow",
     "pipelines": [
@@ -30941,7 +30866,7 @@
     }
   },
   {
-    "acronym": "PIZOOKIE TASTING",
+    "acronym": "Pizookie Tasting",
     "fullName": "Pizookie Tasting",
     "slug": "pizookie-tasting",
     "pipelines": [
@@ -30989,7 +30914,7 @@
     }
   },
   {
-    "acronym": "INNOVATION DAY",
+    "acronym": "Innovation Day",
     "fullName": "Innovation Day",
     "slug": "innovation-day",
     "pipelines": [
@@ -31037,7 +30962,7 @@
     }
   },
   {
-    "acronym": "SUMMER ROADSHOW",
+    "acronym": "Summer Roadshow",
     "fullName": "Summer Roadshow",
     "slug": "summer-roadshow",
     "pipelines": [
@@ -31087,7 +31012,7 @@
     }
   },
   {
-    "acronym": "OVG SERVICE",
+    "acronym": "OVG Service",
     "fullName": "Exhibitor Expo",
     "slug": "ovg-service",
     "pipelines": [
