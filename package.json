@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "build:data": "python3 scripts/build_json.py"
+    "build:data": "python3 scripts/build_pipeline.py Deals_July_7.csv public/data scripts/base_services.json"
   },
   "dependencies": {
     "next": "14.2.5",

@@ -1,35 +1,23 @@
 {
-  "title": "CAL Services and Location Analysis",
+  "title": "CAL Location & Revenue Dashboard",
+  "client": "Crêpes à Latte",
   "dateRange": {
     "start": "2022-01-01",
     "end": "2026-07-07",
     "label": "2022 to July 7 2026"
   },
-  "generatedFrom": "CAL Services and Location Analysis 2022 to July 7 2026.xlsx",
-  "totals": {
-    "dealsInScope": 3347,
-    "national": {
-      "deals": 2196,
-      "revenue": 54852120.52
-    },
-    "cafeLines": {
-      "deals": 1151,
-      "revenue": 5282291.0
-    },
-    "grandRevenue": 60134411.52,
-    "uniqueShowAcronyms": 465,
-    "distinctCities": 81
-  },
-  "espressoSplit": {
-    "definition": "A deal counts as espresso if it includes Espresso Service. Revenue is not split within multi-service deals.",
-    "espressoRevenue": 34089454.61,
-    "otherRevenue": 26044956.91,
-    "espressoSharePct": 56.7
-  },
+  "generatedAt": "2026-07-10",
+  "sourceFiles": [
+    "Deals_July_7.csv",
+    "cm_tradeshow_edition_fsids_20260709.csv",
+    "cm_tradeshow_fsids_20260709.csv",
+    "CAL_Service_List_v10.xlsx"
+  ],
   "pipelines": [
     "National",
     "Cafe Lines"
   ],
+  "defaultPipeline": "National",
   "years": [
     2022,
     2023,
@@ -38,35 +26,77 @@
     2026
   ],
   "yearLabels": {
-    "2022": "2022",
-    "2023": "2023",
-    "2024": "2024",
-    "2025": "2025",
     "2026": "2026 YTD"
   },
-  "definitions": {
-    "revenue": "Won deals at real dollar value. Show Close Date drives year/month bucketing.",
-    "cityPatternClasses": [
-      "Fixed City",
-      "Rotation with Anchor",
-      "Full Rotation",
-      "One-Off / Custom"
-    ],
-    "monthPatternClasses": [
-      "Fixed Month",
-      "Slight Drift",
-      "Significant Drift",
-      "Insufficient Data"
-    ],
-    "oneOffCustom": "Workbook 'Insufficient Data' shows (under 3 years of history) plus any acronym absent from the pattern classification, so summary views total to grand revenue."
+  "totals": {
+    "dealsInScope": 3385,
+    "byPipeline": {
+      "national": {
+        "deals": 2213,
+        "revenue": 54157617.52
+      },
+      "cafeLines": {
+        "deals": 1172,
+        "revenue": 5280497.0
+      }
+    },
+    "grandRevenue": 59438114.52,
+    "uniqueShows": 488,
+    "distinctCities": 82
   },
-  "reconciliation": {
-    "status": "reconciled",
-    "note": "Two National deals carry no show acronym (Washington $5,645; city Unknown $13,195). They are retained in grand, city, and One-Off/Custom totals as the (Unspecified) show."
+  "patternClasses": [
+    "Fixed City",
+    "Rotation with Anchor",
+    "Full Rotation",
+    "Insufficient Data"
+  ],
+  "patternFilters": [
+    "Fixed City",
+    "Rotation with Anchor",
+    "Full Rotation",
+    "Month Drift",
+    "Insufficient Data"
+  ],
+  "espresso": {
+    "definition": "A deal counts as espresso if its service description includes a consolidated Espresso Service (Latte / Latte+ / Cappuccino / Caramel Macchiato). Revenue is not split within multi-service deals.",
+    "byPipeline": {
+      "national": {
+        "sharePct": 63.4
+      },
+      "cafeLines": {
+        "sharePct": 92.7
+      }
+    }
+  },
+  "serviceMixNote": "Service mix is derived by keyword match against the v10 base-service vocabulary from the free-text Service Description field. It is approximate; Add Ons and Modifiers are excluded.",
+  "rules": {
+    "wonStages": [
+      "Partial Shipment",
+      "Shipped",
+      "Won",
+      "Won / Production",
+      "Won: Show Cancelled"
+    ],
+    "closeDate": "End date, fallback Installation Date",
+    "cafeLinesTokens": [
+      "OVG",
+      "SODEXO",
+      "LEVY",
+      "CENTERPLATE",
+      "SAVOR",
+      "ARAMARK",
+      "CAFE LINE"
+    ],
+    "excludedShows": [
+      "BTB BOXES",
+      "CHICAGO LOCAL EVENT",
+      "CHICAGO LOCAL EVENTS",
+      "STREAMLINE EVENTS"
+    ],
+    "patternMinYears": 3
   },
   "branding": {
     "purple": "#944197",
-    "textHeader": "#000000",
     "bodyFont": "Karla",
     "headerFont": "Bricolage Grotesque"
   }

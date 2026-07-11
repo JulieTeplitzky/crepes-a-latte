@@ -1,28 +1,25 @@
 import Link from "next/link";
+import PipelineToggle from "./PipelineToggle";
 
 export default function Header() {
   return (
-    <header className="border-b border-line bg-paper">
-      <div className="w-full max-w-[1400px] mx-auto px-5 sm:px-8 py-4 flex items-center justify-between gap-4">
-        <Link href="/" className="flex items-baseline gap-3 no-underline">
-          <span className="font-head text-ink text-xl font-bold tracking-tight">
-            Crepes a Latte
-          </span>
-          <span className="font-body text-muted text-sm hidden sm:inline">
-            Location &amp; Revenue Analysis
-          </span>
-        </Link>
-        <nav className="flex items-center gap-5 text-sm font-body">
-          <Link href="/" className="text-ink hover:text-purple no-underline">
-            Overview
+    <header className="border-b border-line bg-paper sticky top-0 z-20">
+      <div className="w-full max-w-screen mx-auto px-5 sm:px-8 py-3 flex items-center justify-between gap-4">
+        <div className="flex items-center gap-6">
+          <Link href="/" className="no-underline text-ink">
+            <span className="font-head text-xl font-bold uppercase tracking-wide border border-ink rounded-sm px-2 py-0.5">
+              Crêpes à Latte
+            </span>
           </Link>
-          <Link href="/#shows" className="text-ink hover:text-purple no-underline">
-            Shows
-          </Link>
-          <Link href="/#cities" className="text-ink hover:text-purple no-underline">
-            Cities
-          </Link>
-        </nav>
+          <nav className="hidden md:flex items-center gap-5 text-sm font-body">
+            <Link href="/" className="text-ink hover:text-purple no-underline">Overview</Link>
+            <Link href="/patterns" className="text-ink hover:text-purple no-underline">Patterns</Link>
+          </nav>
+        </div>
+        <div className="flex items-center gap-3">
+          <span className="hidden sm:inline font-body text-xs text-muted">Pipeline</span>
+          <PipelineToggle />
+        </div>
       </div>
     </header>
   );

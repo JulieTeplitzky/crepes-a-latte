@@ -2,32 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Crêpes à Latte type system (IHG proposal):
+   Antonio = display titles, Jost = Futura PT substitute for body/subheads,
+   Abel = tracked eyebrow / footer labels. */
 :root {
-  --font-karla: "Karla", system-ui, sans-serif;
-  --font-bricolage: "Bricolage Grotesque", system-ui, sans-serif;
+  --font-antonio: "Antonio", system-ui, sans-serif;
+  --font-jost: "Jost", system-ui, sans-serif;
+  --font-abel: "Abel", system-ui, sans-serif;
 }
 
-html,
-body {
-  padding: 0;
-  margin: 0;
-  background: #ffffff;
-  color: #000000;
+html, body { padding: 0; margin: 0; background: #ffffff; color: #3c3733; }
+body { font-family: var(--font-jost); }
+h1, h2, h3, h4 { font-family: var(--font-antonio); letter-spacing: 0.01em; }
+
+/* eyebrow / label treatment used on section kickers and the footer */
+.eyebrow {
+  font-family: var(--font-abel);
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
 }
 
-body {
-  font-family: var(--font-karla);
-}
+.recharts-wrapper:focus, .recharts-surface:focus { outline: none; }
+tr.row-link { cursor: pointer; }
 
-h1,
-h2,
-h3,
-h4 {
-  font-family: var(--font-bricolage);
-}
-
-/* Recharts focus outlines off for cleaner look */
-.recharts-wrapper:focus,
-.recharts-surface:focus {
-  outline: none;
-}
+/* CAL brand color bar (footer) */
+.brandbar { height: 6px; display: flex; }
+.brandbar > span { flex: 1; }
